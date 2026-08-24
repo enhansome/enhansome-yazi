@@ -1,7 +1,50 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Note: Ape/mediainfo.yazi",
+          "description": "is archived and not maintained anymore.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 833602643,
+            "language": "Lua",
+            "last_commit": "2024-12-20T12:09:04Z",
+            "owner": "Ape",
+            "repo": "mediainfo.yazi",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "mediainfo.yazi - Preview image, audio, video, subtitle and many more media types using `ffmpeg` and `mediainfo`."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Note: boydaihungst/simple-mtpfs.yazi",
+          "description": "is archived and not maintained anymore. You can use boydaihungst/gvfs.yazi instead.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 877422743,
+            "language": "Lua",
+            "last_commit": "2025-05-28T22:20:47Z",
+            "owner": "boydaihungst",
+            "repo": "simple-mtpfs.yazi",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "simple-mtpfs.yazi - Mounting MTP devices (Android, Camera, etc) in Linux."
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T11:58:45.852Z",
+    "last_updated": "2026-08-24T14:19:53.487Z",
     "original_repository": "AnirudhG07/awesome-yazi",
     "original_repository_id": 824262835,
     "original_repository_sha": "fbb6d58dab2c64c611c03809a93bba9b5fb68fe5",
