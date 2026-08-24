@@ -44,7 +44,7 @@ Each plugin info contains the installation instruction preferably using `ya pkg`
 
 * [Website](https://yazi-rs.github.io)
 * [Documentation](https://yazi-rs.github.io/docs/installation)
-* [Repository](https://github.com/sxyazi/yazi) ⭐ 41,617 | 🐛 65 | 🌐 Rust | 📅 2026-08-23
+* [Repository](https://github.com/sxyazi/yazi) ⭐ 41,637 | 🐛 65 | 🌐 Rust | 📅 2026-08-23
 
 ## Plugins
 
@@ -1081,6 +1081,17 @@ ya pkg add yazi-rs/plugins:mount
 
 <details>
 <summary>
+<a href="https://github.com/PHONE1X/lsblk-mount.yazi">lsblk-mount.yazi</a> - A fork of the official mount.yazi with lsblk-based device discovery, a mountpoint column, and error notifications.
+</summary>
+
+```bash
+ya pkg add PHONE1X/lsblk-mount.yazi
+```
+
+</details>
+
+<details>
+<summary>
 <a href="https://github.com/SL-RU/mount.yazi">SL-RU/mount.yazi</a> - User interface for convinient mounting volumes using udisks2.
 </summary>
 You need to install mmtui binary first, check repository for additional information.
@@ -1607,7 +1618,7 @@ ya pkg add yazi-rs/plugins:mactag
 ya pkg add yazi-rs/plugins:no-status
 ```
 
-> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 41,617 | 🐛 65 | 🌐 Rust | 📅 2026-08-23 in this discussion.
+> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 41,637 | 🐛 65 | 🌐 Rust | 📅 2026-08-23 in this discussion.
 
 </details>
 
@@ -2040,6 +2051,17 @@ ya pkg add Tyarel8/nu
 
 <details>
 <summary>
+<a href="https://github.com/alastairsounds/yazi-plugins/tree/main/shell-peek.yazi">shell-peek.yazi</a> - Peek a shell command's output as a toast without leaving the file list.
+</summary>
+
+```bash
+ya pkg add alastairsounds/yazi-plugins:shell-peek
+```
+
+</details>
+
+<details>
+<summary>
 <a href="https://github.com/danchamorro/tui-toggle.yazi">tui-toggle.yazi</a> - Toggle persistent tmux-backed TUIs (pi) and open a shell in the current Yazi directory.
 </summary>
 
@@ -2382,13 +2404,26 @@ Manual Installation Required.
 
 ## Community
 
+<details>
+<summary>
+<a href="https://github.com/PHONE1X/far-too-yazi">far-too-yazi</a> - FAR Manager / Norton Commander style dual-pane config distribution for yazi (AstroNvim-style, not a single plugin) — instant vim<->FAR mode switching, conflict-aware cross-pane transfers, KDE Connect phone browsing.
+</summary>
+
+```bash
+git clone https://github.com/PHONE1X/far-too-yazi.git
+cd far-too-yazi
+./install.sh
+```
+
+</details>
+
 * [Discord (English mainly)](https://discord.gg/qfADduSdJu)
 * [Telegram (Chinese mainly)](https://t.me/yazi_rs)
 
 ## Check Out More
 
-Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-yazi/tree/main/checkout_more) ⭐ 754 | 🐛 4 | 🌐 Shell | 📅 2026-08-07 for more cool stuff and plugins. If you want to add something cool you made, which is not a plugin, flavor or theme, you can definitely add it to the `checkout_more` section for others to see.
+Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-yazi/tree/main/checkout_more) ⭐ 756 | 🐛 0 | 🌐 Shell | 📅 2026-08-23 for more cool stuff and plugins. If you want to add something cool you made, which is not a plugin, flavor or theme, you can definitely add it to the `checkout_more` section for others to see.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
