@@ -44,7 +44,7 @@ Each plugin info contains the installation instruction preferably using `ya pkg`
 
 * [Website](https://yazi-rs.github.io)
 * [Documentation](https://yazi-rs.github.io/docs/installation)
-* [Repository](https://github.com/sxyazi/yazi) ⭐ 41,661 | 🐛 65 | 🌐 Rust | 📅 2026-08-25
+* [Repository](https://github.com/sxyazi/yazi) ⭐ 41,695 | 🐛 67 | 🌐 Rust | 📅 2026-08-26
 
 ## Plugins
 
@@ -127,7 +127,7 @@ ya pkg add ahkohd/eza-preview
 ```
 
 > Note:
-> The [original repo](https://github.com/sharklasers996/eza-preview.yazi) ⭐ 54 | 🐛 12 | 🌐 Lua | 📅 2024-06-27 is currently unmaintained and does not work for Yazi v>=0.3.3.
+> The [original repo](https://github.com/sharklasers996/eza-preview.yazi) ⭐ 55 | 🐛 12 | 🌐 Lua | 📅 2024-06-27 is currently unmaintained and does not work for Yazi v>=0.3.3.
 
 </details>
 
@@ -1618,7 +1618,7 @@ ya pkg add yazi-rs/plugins:mactag
 ya pkg add yazi-rs/plugins:no-status
 ```
 
-> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 41,661 | 🐛 65 | 🌐 Rust | 📅 2026-08-25 in this discussion.
+> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 41,695 | 🐛 67 | 🌐 Rust | 📅 2026-08-26 in this discussion.
 
 </details>
 
@@ -2422,8 +2422,8 @@ cd far-too-yazi
 
 ## Check Out More
 
-Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-yazi/tree/main/checkout_more) ⭐ 757 | 🐛 0 | 🌐 Shell | 📅 2026-08-23 for more cool stuff and plugins. If you want to add something cool you made, which is not a plugin, flavor or theme, you can definitely add it to the `checkout_more` section for others to see.
+Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-yazi/tree/main/checkout_more) ⭐ 758 | 🐛 0 | 🌐 Shell | 📅 2026-08-23 for more cool stuff and plugins. If you want to add something cool you made, which is not a plugin, flavor or theme, you can definitely add it to the `checkout_more` section for others to see.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
