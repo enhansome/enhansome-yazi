@@ -44,9 +44,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:00:35.570Z",
-    "original_repository": "AnirudhG07/awesome-yazi",
-    "original_repository_id": 824262835,
+    "last_updated": "2026-08-27T12:12:37.079Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 824262835,
+      "language": "Shell",
+      "last_commit": "2026-08-23T12:21:57Z",
+      "owner": "AnirudhG07",
+      "repo": "awesome-yazi",
+      "stars": 759
+    },
     "original_repository_sha": "fbb6d58dab2c64c611c03809a93bba9b5fb68fe5",
     "enhanced_repository": "enhansome/enhansome-yazi",
     "enhanced_repository_description": null,
