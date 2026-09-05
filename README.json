@@ -59,7 +59,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T15:05:07.855Z",
+    "last_updated": "2026-09-05T13:59:28.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
@@ -68,10 +68,10 @@
       "language": "Shell",
       "license": "CC0-1.0",
       "last_commit": "2026-08-23T12:21:57Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "AnirudhG07",
       "repo": "awesome-yazi",
-      "stars": 767,
+      "stars": 768,
       "topics": [
         "awesome",
         "awesome-list",
