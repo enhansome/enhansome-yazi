@@ -44,7 +44,7 @@ Each plugin info contains the installation instruction preferably using `ya pkg`
 
 * [Website](https://yazi-rs.github.io)
 * [Documentation](https://yazi-rs.github.io/docs/installation)
-* [Repository](https://github.com/sxyazi/yazi) ⭐ 42,117 | 🐛 67 | 🌐 Rust | 📅 2026-09-10
+* [Repository](https://github.com/sxyazi/yazi) ⭐ 42,135 | 🐛 65 | 🌐 Rust | 📅 2026-09-12
 
 ## Plugins
 
@@ -1630,7 +1630,7 @@ ya pkg add yazi-rs/plugins:mactag
 ya pkg add yazi-rs/plugins:no-status
 ```
 
-> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 42,117 | 🐛 67 | 🌐 Rust | 📅 2026-09-10 in this discussion.
+> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 42,135 | 🐛 65 | 🌐 Rust | 📅 2026-09-12 in this discussion.
 
 </details>
 
@@ -2434,8 +2434,8 @@ cd far-too-yazi
 
 ## Check Out More
 
-Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-yazi/tree/main/checkout_more) ⭐ 774 | 🐛 3 | 🌐 Shell | 📅 2026-09-06 for more cool stuff and plugins. If you want to add something cool you made, which is not a plugin, flavor or theme, you can definitely add it to the `checkout_more` section for others to see.
+Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-yazi/tree/main/checkout_more) ⭐ 775 | 🐛 3 | 🌐 Shell | 📅 2026-09-06 for more cool stuff and plugins. If you want to add something cool you made, which is not a plugin, flavor or theme, you can definitely add it to the `checkout_more` section for others to see.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
