@@ -44,7 +44,7 @@ Each plugin info contains the installation instruction preferably using `ya pkg`
 
 * [Website](https://yazi-rs.github.io)
 * [Documentation](https://yazi-rs.github.io/docs/installation)
-* [Repository](https://github.com/sxyazi/yazi) ⭐ 42,356 | 🐛 61 | 🌐 Rust | 📅 2026-09-21
+* [Repository](https://github.com/sxyazi/yazi) ⭐ 42,372 | 🐛 63 | 🌐 Rust | 📅 2026-09-21
 
 ## Plugins
 
@@ -1127,6 +1127,17 @@ ya pkg add lmnek/pandoc
 
 <details>
 <summary>
+<a href="https://github.com/nmetschke/recents.yazi">recents.yazi</a> - Recently used files using the <a href="https://www.freedesktop.org/wiki/Specifications/desktop-bookmark-spec">desktop-bookmark-spec</a> (Linux only), supporting viewing, adding and removing.
+</summary>
+
+```bash
+ya pkg add nmetschke/recents
+```
+
+</details>
+
+<details>
+<summary>
 <a href="https://github.com/uhs-robert/recycle-bin.yazi">recycle-bin.yazi</a> - Manage your Trash from Yazi: browse contents, restore or delete selected items, empty by age, or empty completely using trash-cli.
 </summary>
 
@@ -1630,7 +1641,7 @@ ya pkg add yazi-rs/plugins:mactag
 ya pkg add yazi-rs/plugins:no-status
 ```
 
-> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 42,356 | 🐛 61 | 🌐 Rust | 📅 2026-09-21 in this discussion.
+> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 42,372 | 🐛 63 | 🌐 Rust | 📅 2026-09-21 in this discussion.
 
 </details>
 
@@ -2052,6 +2063,17 @@ ya pkg add AnirudhG07/custom-shell
 
 <details>
 <summary>
+<a href="https://github.com/tr1v3r/dsh-tui.yazi">dsh-tui.yazi</a> - Launch dsh-TUI with explicitly selected Yazi files appended to an editable prompt.
+</summary>
+
+```bash
+ya pkg add tr1v3r/dsh-tui
+```
+
+</details>
+
+<details>
+<summary>
 <a href="https://github.com/Tyarel8/nu.yazi">nu.yazi</a> - A plugin for yazi to execute `nu` code.
 </summary>
 
@@ -2434,8 +2456,8 @@ cd far-too-yazi
 
 ## Check Out More
 
-Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-yazi/tree/main/checkout_more) ⭐ 783 | 🐛 3 | 🌐 Shell | 📅 2026-09-06 for more cool stuff and plugins. If you want to add something cool you made, which is not a plugin, flavor or theme, you can definitely add it to the `checkout_more` section for others to see.
+Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-yazi/tree/main/checkout_more) ⭐ 784 | 🐛 1 | 🌐 Shell | 📅 2026-09-22 for more cool stuff and plugins. If you want to add something cool you made, which is not a plugin, flavor or theme, you can definitely add it to the `checkout_more` section for others to see.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
