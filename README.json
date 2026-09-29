@@ -59,7 +59,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:42:55.115Z",
+    "last_updated": "2026-09-29T17:00:11.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
@@ -67,7 +67,7 @@
       "id": 824262835,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-22T19:36:52Z",
+      "last_commit": "2026-09-29T09:07:41Z",
       "open_issues": 1,
       "owner": "AnirudhG07",
       "repo": "awesome-yazi",
@@ -80,7 +80,7 @@
         "yazi-plugins"
       ]
     },
-    "original_repository_sha": "3c046be752025721cab76731496748244b94969e",
+    "original_repository_sha": "d15cd87142fa6438545eb6ff077858e050cd85e3",
     "enhanced_repository": "enhansome/enhansome-yazi",
     "enhanced_repository_description": null,
     "title": "Awesome Yazi with stars"

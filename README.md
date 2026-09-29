@@ -44,7 +44,7 @@ Each plugin info contains the installation instruction preferably using `ya pkg`
 
 * [Website](https://yazi-rs.github.io)
 * [Documentation](https://yazi-rs.github.io/docs/installation)
-* [Repository](https://github.com/sxyazi/yazi) ⭐ 42,468 | 🐛 65 | 🌐 Rust | 📅 2026-09-28
+* [Repository](https://github.com/sxyazi/yazi) ⭐ 42,485 | 🐛 66 | 🌐 Rust | 📅 2026-09-29
 
 ## Plugins
 
@@ -727,6 +727,18 @@ ya pkg add pakhromov/goto-file-dir
 
 <details>
 <summary>
+<a href="https://github.com/skylightlim/gridview.yazi">gridview.yazi</a> - Browse the current folder's images as a thumbnail grid drawn by <a href="https://github.com/artemsen/swayimg">swayimg</a>, then jump to the one you pick (Wayland only).
+</summary>
+
+```bash
+# Requirements: swayimg 5.5 or newer (Wayland)
+ya pkg add skylightlim/gridview
+```
+
+</details>
+
+<details>
+<summary>
 <a href="https://tangled.org/ivelieu.quietism.art/hxjump.yazi">hxjump.yazi</a> - Helix-like two character jump to any visible file or folder
 </summary>
 
@@ -1099,6 +1111,22 @@ You need to install mmtui binary first, check repository for additional informat
 ```bash
 # Requirements: mmtui, udisks2, yazi >= 0.4
 ya pkg add SL-RU/mount
+```
+
+</details>
+
+<details>
+<summary>
+<a href="https://github.com/skylightlim/omniconvert.yazi">omniconvert.yazi</a> - A conversion menu that offers only the formats the hovered or selected files can actually become (images, audio, video, PDF and documents), using <a href="https://imagemagick.org/">ImageMagick</a>, <a href="https://ffmpeg.org/">FFmpeg</a> and <a href="https://www.libreoffice.org/">LibreOffice</a>.
+</summary>
+
+```bash
+ya pkg add skylightlim/omniconvert
+
+# The plugin also needs its omniconvert script on your PATH:
+mkdir -p ~/.local/bin
+curl -fsSL https://raw.githubusercontent.com/skylightlim/omniconvert.yazi/main/omniconvert \
+  -o ~/.local/bin/omniconvert && chmod +x ~/.local/bin/omniconvert
 ```
 
 </details>
@@ -1641,7 +1669,7 @@ ya pkg add yazi-rs/plugins:mactag
 ya pkg add yazi-rs/plugins:no-status
 ```
 
-> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 42,468 | 🐛 65 | 🌐 Rust | 📅 2026-09-28 in this discussion.
+> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 42,485 | 🐛 66 | 🌐 Rust | 📅 2026-09-29 in this discussion.
 
 </details>
 
@@ -2456,8 +2484,8 @@ cd far-too-yazi
 
 ## Check Out More
 
-Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-yazi/tree/main/checkout_more) ⭐ 785 | 🐛 1 | 🌐 Shell | 📅 2026-09-22 for more cool stuff and plugins. If you want to add something cool you made, which is not a plugin, flavor or theme, you can definitely add it to the `checkout_more` section for others to see.
+Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-yazi/tree/main/checkout_more) ⭐ 785 | 🐛 1 | 🌐 Shell | 📅 2026-09-29 for more cool stuff and plugins. If you want to add something cool you made, which is not a plugin, flavor or theme, you can definitely add it to the `checkout_more` section for others to see.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
