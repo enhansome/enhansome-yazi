@@ -44,7 +44,7 @@ Each plugin info contains the installation instruction preferably using `ya pkg`
 
 * [Website](https://yazi-rs.github.io)
 * [Documentation](https://yazi-rs.github.io/docs/installation)
-* [Repository](https://github.com/sxyazi/yazi) ⭐ 42,552 | 🐛 65 | 🌐 Rust | 📅 2026-10-01
+* [Repository](https://github.com/sxyazi/yazi) ⭐ 42,572 | 🐛 64 | 🌐 Rust | 📅 2026-10-02
 
 ## Plugins
 
@@ -1245,7 +1245,7 @@ ya pkg add boydaihungst/simple-mtpfs
 ```
 
 > Note: [boydaihungst/simple-mtpfs.yazi](https://github.com/boydaihungst/simple-mtpfs.yazi) ⚠️ Archived is archived and not maintained anymore.
-> You can use [boydaihungst/gvfs.yazi](https://github.com/boydaihungst/gvfs.yazi) ⭐ 79 | 🐛 1 | 🌐 Lua | 📅 2026-09-08 instead.
+> You can use [boydaihungst/gvfs.yazi](https://github.com/boydaihungst/gvfs.yazi) ⭐ 80 | 🐛 0 | 🌐 Lua | 📅 2026-09-08 instead.
 
 </details>
 
@@ -1669,7 +1669,7 @@ ya pkg add yazi-rs/plugins:mactag
 ya pkg add yazi-rs/plugins:no-status
 ```
 
-> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 42,552 | 🐛 65 | 🌐 Rust | 📅 2026-10-01 in this discussion.
+> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 42,572 | 🐛 64 | 🌐 Rust | 📅 2026-10-02 in this discussion.
 
 </details>
 
@@ -2488,4 +2488,4 @@ Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-ya
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
