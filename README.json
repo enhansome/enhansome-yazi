@@ -4,62 +4,3981 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Note: Ape/mediainfo.yazi",
-          "description": "is archived and not maintained anymore.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Yazi plugin for previewing media files",
-            "homepage": null,
-            "id": 833602643,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2024-12-20T12:09:04Z",
-            "open_issues": 3,
-            "owner": "Ape",
-            "repo": "mediainfo.yazi",
-            "stars": 12,
-            "topics": [
-              "yazi",
-              "yazi-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T21:31:22.389Z"
-        }
-      ],
-      "title": "mediainfo.yazi - Preview image, audio, video, subtitle and many more media types using `ffmpeg` and `mediainfo`."
-    },
-    {
-      "description": null,
-      "items": [
+          "children": [
+            {
+              "children": [],
+              "description": "- Preview soundfiles as a spectrogram using sox .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Preview audio files in yazi",
+                "homepage": null,
+                "id": 940569570,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-17T11:32:47Z",
+                "open_issues": 1,
+                "owner": "gesellkammer",
+                "repo": "audio-preview.yazi",
+                "stars": 7,
+                "topics": []
+              },
+              "title": "audio-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview Blender's .blend and .blend1 files.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin to preview Blender's .blend and .blend1 files",
+                "homepage": null,
+                "id": 1099429079,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-11-19T02:53:10Z",
+                "open_issues": 1,
+                "owner": "walldmtd",
+                "repo": "blender-preview.yazi",
+                "stars": 2,
+                "topics": []
+              },
+              "title": "blender-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview djvu files using ddjvu from DjVuLibre .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "djvu preview for Yazi file browser",
+                "homepage": null,
+                "id": 1040464472,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-22T04:26:42Z",
+                "open_issues": 0,
+                "owner": "Shallow-Seek",
+                "repo": "djvu-view.yazi",
+                "stars": 6,
+                "topics": []
+              },
+              "title": "djvu-view.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview csv, tsv, json, and Parquet files using duckdb . View the raw data, or a compact summarized view of columns.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin that uses duckdb to preview data files.",
+                "homepage": null,
+                "id": 953165754,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-05-29T07:41:08Z",
+                "open_issues": 16,
+                "owner": "wylie102",
+                "repo": "duckdb.yazi",
+                "stars": 189,
+                "topics": [
+                  "csv",
+                  "csv-viewer",
+                  "duckdb",
+                  "duckdb-community",
+                  "duckdb-database",
+                  "excel",
+                  "excel-viewer",
+                  "json",
+                  "json-viewer",
+                  "parquet",
+                  "parquet-viewer",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "duckdb.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview audio metadata and cover using exiftool .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Preview audio files metadata on yazi",
+                "homepage": null,
+                "id": 752287184,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-06-20T02:55:11Z",
+                "open_issues": 3,
+                "owner": "Sonico98",
+                "repo": "exifaudio.yazi",
+                "stars": 73,
+                "topics": []
+              },
+              "title": "exifaudio.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview directories using eza .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin to preview directories using eza",
+                "homepage": null,
+                "id": 994488650,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-06-30T11:42:19Z",
+                "open_issues": 0,
+                "owner": "ahkohd",
+                "repo": "eza-preview.yazi",
+                "stars": 28,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "eza-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview 3d objects like stl, step, 3mf, obj, and more using f3d.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi previewer which uses f3d to render 3d object files",
+                "homepage": null,
+                "id": 1074647754,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-07-29T08:39:14Z",
+                "open_issues": 0,
+                "owner": "Ruudjhuu",
+                "repo": "f3d-preview.yazi",
+                "stars": 12,
+                "topics": []
+              },
+              "title": "f3d-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview fits file.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "fits preview plugin in yazi",
+                "homepage": null,
+                "id": 1163154570,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-06-30T01:16:41Z",
+                "open_issues": 0,
+                "owner": "cxwx",
+                "repo": "fits-preview.yazi",
+                "stars": 0,
+                "topics": [
+                  "fits",
+                  "fits-files",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "fits-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview common font features at a glance.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "font-sample.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview markdown files using glow .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Glow preview plugin for yazi",
+                "homepage": null,
+                "id": 749411763,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-06-13T21:10:23Z",
+                "open_issues": 7,
+                "owner": "Reledia",
+                "repo": "glow.yazi",
+                "stars": 109,
+                "topics": []
+              },
+              "title": "glow.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview Windows EXE/PE and raw BIN files using hevi , a hex viewer with basic format parsing.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 965483673,
+                "language": "Lua",
+                "license": "Apache-2.0",
+                "last_commit": "2025-09-09T04:02:10Z",
+                "open_issues": 0,
+                "owner": "lihuax-me",
+                "repo": "hevi.yazi",
+                "stars": 1,
+                "topics": []
+              },
+              "title": "hevi.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Using hexyl as the fallback previewer for files.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "An hexyl plugin for yazi",
+                "homepage": null,
+                "id": 751871624,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-04-14T19:55:31Z",
+                "open_issues": 5,
+                "owner": "Reledia",
+                "repo": "hexyl.yazi",
+                "stars": 33,
+                "topics": []
+              },
+              "title": "hexyl.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- HWP/HWPX file previewer for Hancom Hangul, the dominant word processor in Korea.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi perviewer for hwp/hwpx. 한컴오피스 한글 yazi 프리뷰. ",
+                "homepage": null,
+                "id": 1071290166,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-12-16T04:00:20Z",
+                "open_issues": 0,
+                "owner": "beskep",
+                "repo": "hwp-preview.yazi",
+                "stars": 1,
+                "topics": [
+                  "hancom",
+                  "hwp",
+                  "hwpx",
+                  "yazi",
+                  "yazi-plugin",
+                  "yazi-plugins"
+                ]
+              },
+              "title": "hwp-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview Krita's .kra and .kra~ files.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin to preview Krita's .kra and .kra~ files",
+                "homepage": null,
+                "id": 1099305812,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-11-19T02:56:49Z",
+                "open_issues": 2,
+                "owner": "walldmtd",
+                "repo": "krita-preview.yazi",
+                "stars": 3,
+                "topics": []
+              },
+              "title": "krita-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Previewing archive contents with lsar.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+                "homepage": null,
+                "id": 800575934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:56:55Z",
+                "open_issues": 41,
+                "owner": "yazi-rs",
+                "repo": "plugins",
+                "stars": 612,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "lsar.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview markdown files using mdcat .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": true,
+                "description": "Preview markdown files in yazi with mdcat",
+                "homepage": null,
+                "id": 864402767,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-04-24T07:50:21Z",
+                "open_issues": 4,
+                "owner": "GrzegorzKozub",
+                "repo": "mdcat.yazi",
+                "stars": 13,
+                "topics": []
+              },
+              "title": "mdcat.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Note: Ape/mediainfo.yazi",
+                  "description": "is archived and not maintained anymore.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Yazi plugin for previewing media files",
+                    "homepage": null,
+                    "id": 833602643,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2024-12-20T12:09:04Z",
+                    "open_issues": 3,
+                    "owner": "Ape",
+                    "repo": "mediainfo.yazi",
+                    "stars": 12,
+                    "topics": [
+                      "yazi",
+                      "yazi-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T21:31:22.389Z"
+                }
+              ],
+              "description": "- Preview image, audio, video, subtitle and many more media types using `ffmpeg` and `mediainfo`.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin for previewing media files",
+                "homepage": null,
+                "id": 873475353,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-08T12:39:16Z",
+                "open_issues": 0,
+                "owner": "boydaihungst",
+                "repo": "mediainfo.yazi",
+                "stars": 118,
+                "topics": []
+              },
+              "title": "mediainfo.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Render Mermaid diagrams inline in Markdown previews. Uses mermaid.ink by default and falls back to mermaid-cli for offline rendering. Composes glow-rendered text with the mermaid image and supports a mode toggle (split / image / text) plus image-area zoom.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "yazi plugin to render Mermaid diagrams inline in Markdown previews",
+                "homepage": null,
+                "id": 1241097733,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-05-22T03:10:55Z",
+                "open_issues": 3,
+                "owner": "passion0102",
+                "repo": "mermaid.yazi",
+                "stars": 3,
+                "topics": [
+                  "lua",
+                  "markdown",
+                  "markdown-preview",
+                  "mermaid",
+                  "mermaid-diagrams",
+                  "previewer",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "mermaid.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview 3D mesh files and point clouds in the terminal.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin to preview 3D mesh files and point clouds",
+                "homepage": null,
+                "id": 1134837311,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-01-15T09:30:39Z",
+                "open_issues": 0,
+                "owner": "dimi1357",
+                "repo": "mesh-preview.yazi",
+                "stars": 2,
+                "topics": []
+              },
+              "title": "mesh-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview CSV files (and other supported formats) using miller .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Miller, now in yazi",
+                "homepage": null,
+                "id": 751454615,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-04-17T12:58:03Z",
+                "open_issues": 6,
+                "owner": "Reledia",
+                "repo": "miller.yazi",
+                "stars": 30,
+                "topics": []
+              },
+              "title": "miller.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview jupyter notebooks (\\*.ipynb) files using nbpreview .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "View your Jupyter notebooks beautifully in the preview",
+                "homepage": null,
+                "id": 825217428,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-10-22T12:56:41Z",
+                "open_issues": 2,
+                "owner": "AnirudhG07",
+                "repo": "nbpreview.yazi",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "nbpreview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview netcdf (\\*.NC) files.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "netcdf preview plugin of yazi",
+                "homepage": null,
+                "id": 1190594157,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-06-30T00:56:36Z",
+                "open_issues": 0,
+                "owner": "cxwx",
+                "repo": "netcdf-preview.yazi",
+                "stars": 1,
+                "topics": [
+                  "claude-ai",
+                  "glm",
+                  "lua",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "netcdf-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Office documents previewer plugin for Yazi, using libreoffice (compatible with .docx, .xlsx, .pptx, .odt, .ods, .odp; and other file formats supported by the Office Open XML and OpenDocument standards).",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Office documents previewer plugin for Yazi, using libreoffice (compatible with .docx, .xlsx, .pptx, .odt, .ods, .odp; and other file formats supported by the Office Open XML and OpenDocument standards)",
+                "homepage": null,
+                "id": 899758516,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-09-20T04:44:30Z",
+                "open_issues": 10,
+                "owner": "macydnah",
+                "repo": "office.yazi",
+                "stars": 72,
+                "topics": [
+                  "office-preload",
+                  "office-preview",
+                  "office-yazi",
+                  "yazi",
+                  "yazi-plugin",
+                  "yazi-plugins",
+                  "yazi-preview",
+                  "yazi-rs"
+                ]
+              },
+              "title": "office.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview 3D geometry files like SCAD, 3MF and STL and more using OpenSCAD .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin to preview 3D geometry files with OpenSCAD",
+                "homepage": null,
+                "id": 1147556382,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-02-01T23:18:43Z",
+                "open_issues": 0,
+                "owner": "ettom",
+                "repo": "openscad.yazi",
+                "stars": 4,
+                "topics": []
+              },
+              "title": "openscad.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- An archive previewer plugin for Yazi, using ouch .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A Yazi plugin to preview archives.",
+                "homepage": null,
+                "id": 775239922,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-12T08:03:28Z",
+                "open_issues": 0,
+                "owner": "ndtoan96",
+                "repo": "ouch.yazi",
+                "stars": 198,
+                "topics": [
+                  "archive",
+                  "compression",
+                  "previewer",
+                  "yazi-plugin",
+                  "zip"
+                ]
+              },
+              "title": "ouch.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- parquet previewer plugin for Yazi.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "parguet previewer plugin for yazi",
+                "homepage": null,
+                "id": 1211159388,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-04-15T06:35:46Z",
+                "open_issues": 0,
+                "owner": "cxwx",
+                "repo": "parquet-preview.yazi",
+                "stars": 1,
+                "topics": []
+              },
+              "title": "parquet-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview Python pickle files in the terminal.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin to preview Python pickle files",
+                "homepage": null,
+                "id": 1134837319,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-15T09:30:41Z",
+                "open_issues": 0,
+                "owner": "dimi1357",
+                "repo": "pickle.yazi",
+                "stars": 2,
+                "topics": []
+              },
+              "title": "pickle.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Pipe any shell command as a previewer.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+                "homepage": null,
+                "id": 800575934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:56:55Z",
+                "open_issues": 41,
+                "owner": "yazi-rs",
+                "repo": "plugins",
+                "stars": 612,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "piper.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Pipe any shell command as a cached previewer. Drop-in replacement for piper.yazi , optimized for speed and precision.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Pipe any shell command as a cached previewer.",
+                "homepage": null,
+                "id": 1131955515,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-16T17:17:52Z",
+                "open_issues": 1,
+                "owner": "alberti42",
+                "repo": "faster-piper.yazi",
+                "stars": 44,
+                "topics": []
+              },
+              "title": "faster-piper.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview cover art and metadata of audio files.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "preview-audio.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview pages of comic books and manga.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "preview-cbz.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview cover of .epub files.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "preview-epub.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview git info by hovering over .git/ directory.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "preview-git.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview schema of a sqlite database.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "preview-sqlite.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview shows .typ files after rendering.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "preview-typst.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview Markdown, JSON, CSV, etc. using rich-cli .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Preview file types using rich in Yazi",
+                "homepage": null,
+                "id": 838000407,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-07T17:05:04Z",
+                "open_issues": 0,
+                "owner": "AnirudhG07",
+                "repo": "rich-preview.yazi",
+                "stars": 101,
+                "topics": []
+              },
+              "title": "rich-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "ROOT(Cern) file preview in yazi",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "ROOT(Cern) file preview in yazi",
+                "homepage": null,
+                "id": 1162803481,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-06-30T01:12:06Z",
+                "open_issues": 0,
+                "owner": "cxwx",
+                "repo": "root-preview.yazi",
+                "stars": 1,
+                "topics": [
+                  "root-cern",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "root-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "Rotate hovered/selected image(s)",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 987941820,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-07-29T07:33:12Z",
+                "open_issues": 0,
+                "owner": "tasnimAlam",
+                "repo": "rotate-image.yazi",
+                "stars": 2,
+                "topics": []
+              },
+              "title": "rotate-image.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "Display image thumbnail",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A Yazi file manager plugin to open images in Swayimg gallery viewer",
+                "homepage": null,
+                "id": 987950456,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-28T13:08:05Z",
+                "open_issues": 0,
+                "owner": "tasnimAlam",
+                "repo": "thumbnail.yazi",
+                "stars": 9,
+                "topics": [
+                  "file-manager",
+                  "image-viewer",
+                  "lua",
+                  "swayimg",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "thumbnail.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview any file type convertible to PDF (using external tools), with page counter and scrolling.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Plugin for yazi file manager. Preview any file type convertible to PDF (using external tools), with page counter and scrolling.",
+                "homepage": null,
+                "id": 1221032057,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-26T01:21:03Z",
+                "open_issues": 0,
+                "owner": "pakhromov",
+                "repo": "to-pdf-preview.yazi",
+                "stars": 0,
+                "topics": []
+              },
+              "title": "to-pdf-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview \"\\*.torrent\" files using transmission-cli .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": true,
+                "description": "yazi plugin to preview bittorrent files",
+                "homepage": null,
+                "id": 796278609,
+                "language": "Lua",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-19T16:54:26Z",
+                "open_issues": 1,
+                "owner": "kirasok",
+                "repo": "torrent-preview.yazi",
+                "stars": 24,
+                "topics": [
+                  "bittorrent",
+                  "torrent",
+                  "transmission",
+                  "transmission-cli",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "torrent-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Thumbnail grid preview for video files using ffmpeg .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1213466698,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-04-17T12:19:43Z",
+                "open_issues": 0,
+                "owner": "ryanda",
+                "repo": "video-grid.yazi",
+                "stars": 0,
+                "topics": []
+              },
+              "title": "video-grid.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview text and code with syntax highlighting, line numbers, and a VS Code style git change gutter.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugins: VS Code style git colors, git gutter preview, mobile-friendly auto layout",
+                "homepage": null,
+                "id": 1296976280,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-07-13T13:29:44Z",
+                "open_issues": 4,
+                "owner": "ShikherVerma",
+                "repo": "yazi-plugins",
+                "stars": 1,
+                "topics": []
+              },
+              "title": "vscode-git-gutter.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview xcursor files with metadata and frame-by-frame animation scrolling.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Plugin for yazi file manager. Preview xcursor files with metadata and frame-by-frame animation scrolling.",
+                "homepage": null,
+                "id": 1220958240,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-05-15T00:01:46Z",
+                "open_issues": 0,
+                "owner": "pakhromov",
+                "repo": "xcursor-preview.yazi",
+                "stars": 0,
+                "topics": []
+              },
+              "title": "xcursor-preview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview YCbCr 4:2:0 \"\\*.yuv\" and \"\\*.y4m\" files using ffmpeg .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin for viewing YUV-files",
+                "homepage": null,
+                "id": 945554137,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-11-14T17:23:28Z",
+                "open_issues": 1,
+                "owner": "figgis",
+                "repo": "yuv.yazi",
+                "stars": 1,
+                "topics": []
+              },
+              "title": "yuv.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Previewers"
+        },
         {
-          "node_type": "item",
-          "title": "Note: boydaihungst/simple-mtpfs.yazi",
-          "description": "is archived and not maintained anymore. You can use boydaihungst/gvfs.yazi instead.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Mounting MTP devices (Android, Camera, etc) in yazi.",
-            "homepage": null,
-            "id": 877422743,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2025-05-28T22:20:47Z",
-            "open_issues": 0,
-            "owner": "boydaihungst",
-            "repo": "simple-mtpfs.yazi",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:31:22.389Z"
+          "children": [
+            {
+              "children": [],
+              "description": "- Simple bookmarks plugin for yazi with fuzzy search and directory marking.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "🐰 Bookmarks menu for yazi with persistent and ephemeral bookmarks, fuzzy searching, previous directory, directory from another tab ",
+                "homepage": null,
+                "id": 888139672,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-03-09T03:22:24Z",
+                "open_issues": 6,
+                "owner": "stelcodes",
+                "repo": "bunny.yazi",
+                "stars": 90,
+                "topics": []
+              },
+              "title": "bunny.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A plugin for cdhist to fuzzy select and navigate within Yazi from your directory history.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin for cdhist to fuzzy select and navigate within Yazi from your directory history",
+                "homepage": null,
+                "id": 937379392,
+                "language": "Lua",
+                "license": "NOASSERTION",
+                "last_commit": "2026-01-15T04:27:59Z",
+                "open_issues": 0,
+                "owner": "bulletmark",
+                "repo": "cdhist.yazi",
+                "stars": 3,
+                "topics": [
+                  "fzf",
+                  "yazi"
+                ]
+              },
+              "title": "cdhist.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- jump-to-char with more features.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "fchar.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Allows easy jumping to the first file ignoring directories.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Home for my Yazi terminal file manager plugins.",
+                "homepage": null,
+                "id": 857794026,
+                "language": "Lua",
+                "license": null,
+                "last_commit": "2026-06-02T22:30:45Z",
+                "open_issues": 0,
+                "owner": "lpanebr",
+                "repo": "yazi-plugins",
+                "stars": 6,
+                "topics": []
+              },
+              "title": "first-non-directory.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- a Yazi plugin that integrates `fzf` with `bat` preview for `rg` search and `rga` preview for `rga` search.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "a Yazi plugin that integrates `fzf` with `bat` preview for `rg` search and `rga` preview for `rga` search",
+                "homepage": null,
+                "id": 785444807,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-02T11:20:09Z",
+                "open_issues": 0,
+                "owner": "lpnh",
+                "repo": "fr.yazi",
+                "stars": 52,
+                "topics": [
+                  "fzf",
+                  "ripgrep",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "fr.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A plugin for yazi to cd to the available windows drives from an fzf menu.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin to cd to drives with a fzf menu",
+                "homepage": null,
+                "id": 935559481,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-03-30T12:36:32Z",
+                "open_issues": 0,
+                "owner": "Tyarel8",
+                "repo": "goto-drives.yazi",
+                "stars": 5,
+                "topics": [
+                  "windows",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "goto-drives.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Navigate to the directory of the hovered file when browsing search results.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Plugin for yazi file manager. Navigate to the directory of the hovered file when browsing search results.",
+                "homepage": null,
+                "id": 1221042866,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-04-25T17:18:09Z",
+                "open_issues": 0,
+                "owner": "pakhromov",
+                "repo": "goto-file-dir.yazi",
+                "stars": 0,
+                "topics": []
+              },
+              "title": "goto-file-dir.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Browse the current folder's images as a thumbnail grid drawn by swayimg , then jump to the one you pick (Wayland only).",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Thumbnail grid view for yazi, drawn by swayimg — the rofi grid-view tip without rofi",
+                "homepage": null,
+                "id": 1387888927,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-25T16:53:52Z",
+                "open_issues": 0,
+                "owner": "skylightlim",
+                "repo": "gridview.yazi",
+                "stars": 0,
+                "topics": [
+                  "file-manager",
+                  "grid-view",
+                  "image-gallery",
+                  "image-viewer",
+                  "lua",
+                  "swayimg",
+                  "thumbnails",
+                  "wayland",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "gridview.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Vim-like `f `, jump to the next file whose name starts with ` `.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+                "homepage": null,
+                "id": 800575934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:56:55Z",
+                "open_issues": 41,
+                "owner": "yazi-rs",
+                "repo": "plugins",
+                "stars": 612,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "jump-to-char.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- jump to next file with different extension than current one.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "nextension.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Navigate to or create files and directories by pasting a path.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Plugin for yazi file manager. Navigate to or create files and directories by pasting a path.",
+                "homepage": null,
+                "id": 1220974549,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-04-25T15:34:37Z",
+                "open_issues": 0,
+                "owner": "pakhromov",
+                "repo": "paste-navigate.yazi",
+                "stars": 0,
+                "topics": []
+              },
+              "title": "paste-navigate.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A Yazi plugin based on vim motions.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 756598246,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-07-09T21:30:05Z",
+                "open_issues": 8,
+                "owner": "dedukun",
+                "repo": "relative-motions.yazi",
+                "stars": 124,
+                "topics": []
+              },
+              "title": "relative-motions.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A Yazi plugin that functions as a drop-in replacement for the internal `mgr.arrow` subcommand to wrap to top/bottom of directories.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1145276591,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-29T20:11:58Z",
+                "open_issues": 0,
+                "owner": "jessefarinacci",
+                "repo": "smart-arrow.yazi",
+                "stars": 0,
+                "topics": []
+              },
+              "title": "smart-arrow.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Browse forwards and backwards in time via BTRFS / ZFS snapshots.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A yazi plugin for browsing backwards and forwards in time via BTRFS / ZFS snapshots.",
+                "homepage": null,
+                "id": 870584812,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-16T05:05:53Z",
+                "open_issues": 1,
+                "owner": "iynaix",
+                "repo": "time-travel.yazi",
+                "stars": 29,
+                "topics": []
+              },
+              "title": "time-travel.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Jumping"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "- Session restore plugin that can be triggered on any action: tab switch/creation, directory change, or any other keybind, making it work even when exiting Yazi with a window manager/compositor keybind or shutting down the system without exiting Yazi.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Session restore plugin for yazi file manager.",
+                "homepage": null,
+                "id": 1221007731,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-04-25T16:24:29Z",
+                "open_issues": 0,
+                "owner": "pakhromov",
+                "repo": "autosave.yazi",
+                "stars": 2,
+                "topics": []
+              },
+              "title": "autosave.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Automatic session persistence that saves the current state on exit and restores the last saved state on startup.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A Yazi plugin for automatic session persistence that saves the current state on exit and restores the last saved state on startup.",
+                "homepage": null,
+                "id": 1142319319,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-02-23T18:27:27Z",
+                "open_issues": 6,
+                "owner": "barbanevosa",
+                "repo": "autosession.yazi",
+                "stars": 21,
+                "topics": []
+              },
+              "title": "autosession.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A Yazi plugin that adds the basic functionality of Vi-like marks.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 755223693,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-07-09T21:24:49Z",
+                "open_issues": 15,
+                "owner": "dedukun",
+                "repo": "bookmarks.yazi",
+                "stars": 195,
+                "topics": []
+              },
+              "title": "dedukun/bookmarks.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A Yazi plugin for automatically selecting favorite files when entering a directory.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1145276096,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-29T20:42:35Z",
+                "open_issues": 0,
+                "owner": "jessefarinacci",
+                "repo": "favorite-files.yazi",
+                "stars": 1,
+                "topics": []
+              },
+              "title": "favorite-files.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A Yazi plugin that adds the functionality to save and load projects.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A yazi plugin that adds the functionality to save and load projects.",
+                "homepage": null,
+                "id": 794032875,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-19T07:24:48Z",
+                "open_issues": 6,
+                "owner": "MasouShizuka",
+                "repo": "projects.yazi",
+                "stars": 65,
+                "topics": [
+                  "yazi-plugin"
+                ]
+              },
+              "title": "projects.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Yet another bookmarks plugin. It supports persistence, jumping by a key, and jumping by fzf .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yet another bookmarks plugins. It supports persistence, jumping by a key, jumping by fzf.",
+                "homepage": null,
+                "id": 809681246,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-08T16:08:37Z",
+                "open_issues": 7,
+                "owner": "h-hg",
+                "repo": "yamb.yazi",
+                "stars": 106,
+                "topics": [
+                  "bookmarks",
+                  "fzf",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "yamb.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bookmarks"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "- Mounting and unmounting archives in yazi using archivemount .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Mounting and unmounting archives in yazi",
+                "homepage": null,
+                "id": 827901053,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-17T09:21:06Z",
+                "open_issues": 1,
+                "owner": "AnirudhG07",
+                "repo": "archivemount.yazi",
+                "stars": 17,
+                "topics": []
+              },
+              "title": "archivemount.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Rename multiple selected files in your GUI text editor.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Plugin for yazi file manager. Rename multiple selected files in a GUI text editor.",
+                "homepage": null,
+                "id": 1221095426,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-26T02:01:26Z",
+                "open_issues": 0,
+                "owner": "pakhromov",
+                "repo": "batch-rename-gui.yazi",
+                "stars": 0,
+                "topics": []
+              },
+              "title": "batch-rename-gui.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Compress selected or hovered files and directories to an archive. It currently supports various archive formats.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A Yazi plugin that compresses selected files to an archive.",
+                "homepage": null,
+                "id": 821949947,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-22T20:32:23Z",
+                "open_issues": 3,
+                "owner": "KKV9",
+                "repo": "compress.yazi",
+                "stars": 139,
+                "topics": [
+                  "archive",
+                  "compression",
+                  "yazi",
+                  "yazi-plugin",
+                  "zip"
+                ]
+              },
+              "title": "compress.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Execute `chmod` on the selected files to change their mode.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+                "homepage": null,
+                "id": 800575934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:56:55Z",
+                "open_issues": 41,
+                "owner": "yazi-rs",
+                "repo": "plugins",
+                "stars": 612,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "chmod.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Convert between image formats using `magick`.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 907370216,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-06-28T07:21:43Z",
+                "open_issues": 2,
+                "owner": "atareao",
+                "repo": "convert.yazi",
+                "stars": 8,
+                "topics": []
+              },
+              "title": "convert.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Send selected files using croc",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1224676329,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-30T19:48:41Z",
+                "open_issues": 0,
+                "owner": "tasnimAlam",
+                "repo": "croc-send.yazi",
+                "stars": 0,
+                "topics": []
+              },
+              "title": "croc-send.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Diff the selected file with the hovered file, create a living patch, and copy it to the clipboard.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+                "homepage": null,
+                "id": 800575934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:56:55Z",
+                "open_issues": 41,
+                "owner": "yazi-rs",
+                "repo": "plugins",
+                "stars": 612,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "diff.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Duplicate files plugin for Yazi using `jdupes`.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Duplicate files plugin for Yazi",
+                "homepage": null,
+                "id": 1077650720,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-29T07:59:57Z",
+                "open_issues": 4,
+                "owner": "Mshnwq",
+                "repo": "dupes.yazi",
+                "stars": 5,
+                "topics": []
+              },
+              "title": "dupes.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A Yazi plugin that allows users to perform actions on selected files using custom scripts.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 769533954,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-22T08:03:36Z",
+                "open_issues": 0,
+                "owner": "BBOOXX",
+                "repo": "file-actions.yazi",
+                "stars": 22,
+                "topics": []
+              },
+              "title": "file-actions.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Transparently mount and unmount archives in read-only mode while navigating in Yazi.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin: mount and unmount archives transparently using fuse-archive",
+                "homepage": null,
+                "id": 873334263,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-08T12:35:32Z",
+                "open_issues": 0,
+                "owner": "boydaihungst",
+                "repo": "fuse-archive.yazi",
+                "stars": 9,
+                "topics": []
+              },
+              "title": "fuse-archive.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Send selected files to your smartphone or other devices using KDE Connect.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 960876662,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-05-12T04:58:44Z",
+                "open_issues": 3,
+                "owner": "Deepak22903",
+                "repo": "kdeconnect-send.yazi",
+                "stars": 15,
+                "topics": []
+              },
+              "title": "kdeconnect-send.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Send selected files over the local network using localsend-go.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Plugin for yazi file manager. Send selected files over the local network using localsend-go.",
+                "homepage": null,
+                "id": 1220940720,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-25T19:47:26Z",
+                "open_issues": 0,
+                "owner": "pakhromov",
+                "repo": "localsend.yazi",
+                "stars": 1,
+                "topics": []
+              },
+              "title": "localsend.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A fork of the official mount.yazi with lsblk-based device discovery, a mountpoint column, and error notifications.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1334246425,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-14T14:08:24Z",
+                "open_issues": 1,
+                "owner": "PHONE1X",
+                "repo": "lsblk-mount.yazi",
+                "stars": 6,
+                "topics": []
+              },
+              "title": "lsblk-mount.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- User interface for convinient mounting volumes using udisks2.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin for SL_RU/mmtui TUI mount manager",
+                "homepage": null,
+                "id": 904373241,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-03-04T12:42:18Z",
+                "open_issues": 0,
+                "owner": "SL-RU",
+                "repo": "mount.yazi",
+                "stars": 6,
+                "topics": []
+              },
+              "title": "SL-RU/mount.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A conversion menu that offers only the formats the hovered or selected files can actually become (images, audio, video, PDF and documents), using ImageMagick , FFmpeg and LibreOffice .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A format-aware conversion menu for yazi: press c z and pick from only the formats your files can actually become. Images, audio, video, PDF and documents.",
+                "homepage": null,
+                "id": 1375638749,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2026-09-22T10:31:08Z",
+                "open_issues": 0,
+                "owner": "skylightlim",
+                "repo": "omniconvert.yazi",
+                "stars": 0,
+                "topics": [
+                  "bash",
+                  "ffmpeg",
+                  "file-converter",
+                  "format-converter",
+                  "imagemagick",
+                  "libreoffice",
+                  "lua",
+                  "markdown",
+                  "pdf",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "omniconvert.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- An ouch plugin for Yazi, supporting preview and compression.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A Yazi plugin to preview archives.",
+                "homepage": null,
+                "id": 775239922,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-12T08:03:28Z",
+                "open_issues": 0,
+                "owner": "ndtoan96",
+                "repo": "ouch.yazi",
+                "stars": 198,
+                "topics": [
+                  "archive",
+                  "compression",
+                  "previewer",
+                  "yazi-plugin",
+                  "zip"
+                ]
+              },
+              "title": "ouch.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Convert the selected files to different markup files using Pandoc .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Pandoc plugin for Yazi",
+                "homepage": null,
+                "id": 1120730503,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-15T12:42:38Z",
+                "open_issues": 0,
+                "owner": "lmnek",
+                "repo": "pandoc.yazi",
+                "stars": 10,
+                "topics": []
+              },
+              "title": "pandoc.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Recently used files using the desktop-bookmark-spec (Linux only), supporting viewing, adding and removing.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Recents plugin for Yazi based on the desktop-bookmark-spec",
+                "homepage": null,
+                "id": 1358092409,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-01T23:40:02Z",
+                "open_issues": 2,
+                "owner": "nmetschke",
+                "repo": "recents.yazi",
+                "stars": 7,
+                "topics": []
+              },
+              "title": "recents.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Manage your Trash from Yazi: browse contents, restore or delete selected items, empty by age, or empty completely using trash-cli.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": true,
+                "description": "🗑️ recycle-bin.yazi is a Recycle Bin for Yazi with browse, restore, and cleanup capabilities. Give  your files a second chance before they're garbage collected!",
+                "homepage": null,
+                "id": 1035689170,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-22T18:42:55Z",
+                "open_issues": 0,
+                "owner": "uhs-robert",
+                "repo": "recycle-bin.yazi",
+                "stars": 60,
+                "topics": [
+                  "lua",
+                  "plugin",
+                  "trash-cli",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "recycle-bin.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Select images visually in red-table and return the confirmed selection to Yazi.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Fast keyboard-driven terminal image browser for browsing, comparing, and selecting large image collections.",
+                "homepage": "https://www.schukai.com/",
+                "id": 1352821105,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-09-01T00:22:00Z",
+                "open_issues": 0,
+                "owner": "volker-schukai",
+                "repo": "red-table",
+                "stars": 16,
+                "topics": [
+                  "file-selector",
+                  "image-viewer",
+                  "kitty",
+                  "rust",
+                  "sixel",
+                  "terminal",
+                  "tui",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "red-table.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Create reflinks to files.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin for reflinking files",
+                "homepage": null,
+                "id": 827297625,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-02-18T08:54:22Z",
+                "open_issues": 0,
+                "owner": "Ape",
+                "repo": "reflink.yazi",
+                "stars": 6,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "reflink.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Undo/Recover trashed files/folders in Linux/MacOS.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Undo/Recover trashed files/folders",
+                "homepage": null,
+                "id": 875560102,
+                "language": "Lua",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-08T12:34:35Z",
+                "open_issues": 0,
+                "owner": "boydaihungst",
+                "repo": "restore.yazi",
+                "stars": 64,
+                "topics": []
+              },
+              "title": "restore.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Simple rsyncing locally and remotely.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "simple rsync plugin for yazi file manager",
+                "homepage": null,
+                "id": 837459717,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-07-02T22:59:22Z",
+                "open_issues": 0,
+                "owner": "GianniBYoung",
+                "repo": "rsync.yazi",
+                "stars": 43,
+                "topics": [
+                  "file-manager",
+                  "file-manager-cli",
+                  "terminal",
+                  "terminal-based",
+                  "terminal-file-manager",
+                  "tui",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "rsync.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Mount and manage MTP, GPhoto2 (PTP) devices (Android, Cameras, etc), SMB, SFTP, NFS, FTP, Google Drive, DNS-SD, DAV (WebDAV), AFP, AFC (Linux only). List of supported protocals .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "gvfs.yazi uses gvfs and gio from glib to transparently mount and unmount devices in read/write mode, allowing you to navigate inside, view, and edit individual or groups of files.",
+                "homepage": null,
+                "id": 992269136,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-08T12:43:02Z",
+                "open_issues": 0,
+                "owner": "boydaihungst",
+                "repo": "gvfs.yazi",
+                "stars": 80,
+                "topics": [
+                  "plugin",
+                  "yazi"
+                ]
+              },
+              "title": "gvfs.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Mounting MTP devices (Android, Camera, etc) in Linux.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": true,
+                "description": "Mounting MTP devices (Android, Camera, etc) in yazi.",
+                "homepage": null,
+                "id": 877422743,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-05-28T22:20:47Z",
+                "open_issues": 0,
+                "owner": "boydaihungst",
+                "repo": "simple-mtpfs.yazi",
+                "stars": 3,
+                "topics": []
+              },
+              "title": "simple-mtpfs.yazi",
+              "first_seen": "2026-08-28T21:31:22.389Z"
+            },
+            {
+              "children": [],
+              "description": "- Visit past snapshots of your current directory. (Currently supports only btrfs)",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Visit past snapshots of your current directory in Yazi",
+                "homepage": null,
+                "id": 1126210207,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-30T17:10:33Z",
+                "open_issues": 3,
+                "owner": "Mikilio",
+                "repo": "snapshots.yazi",
+                "stars": 1,
+                "topics": [
+                  "backup",
+                  "btrfs",
+                  "btrfs-snapshots",
+                  "snapshot",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "snapshots.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Copy the resolved target path of symlinks.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Plugin for yazi to copy target path of symlinked file",
+                "homepage": null,
+                "id": 1130992010,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-25T16:47:58Z",
+                "open_issues": 0,
+                "owner": "vmikk",
+                "repo": "symlink-target-path.yazi",
+                "stars": 5,
+                "topics": [
+                  "lua",
+                  "symlink",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "symlink-target-path.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Send files via telegram-send directly inside Yazi",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Send files via telegram-send directly from Yazi",
+                "homepage": null,
+                "id": 964717420,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-04-11T20:40:30Z",
+                "open_issues": 0,
+                "owner": "pareix",
+                "repo": "telegram-send.yazi",
+                "stars": 3,
+                "topics": []
+              },
+              "title": "telegram-send.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Bulk rename using thunar -B in Linux.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Bulk rename using thunar -B for yazi",
+                "homepage": null,
+                "id": 876865280,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-08T12:37:02Z",
+                "open_issues": 0,
+                "owner": "boydaihungst",
+                "repo": "thunar-bulk-rename.yazi",
+                "stars": 2,
+                "topics": []
+              },
+              "title": "thunar-bulk-rename.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Calculate the total size of the current selection or of the current working directory.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A plugin for yazi to calculate the size of current selection or current working directory",
+                "homepage": "https://fpira.com",
+                "id": 837703488,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2026-09-02T21:34:18Z",
+                "open_issues": 1,
+                "owner": "pirafrank",
+                "repo": "what-size.yazi",
+                "stars": 66,
+                "topics": [
+                  "cli",
+                  "lua",
+                  "tui",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "what-size.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Hide/unhide files in Windows.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin to hide/unhide files in windows",
+                "homepage": null,
+                "id": 847400101,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-03-30T12:42:01Z",
+                "open_issues": 0,
+                "owner": "Tyarel8",
+                "repo": "whide.yazi",
+                "stars": 5,
+                "topics": [
+                  "windows",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "whide.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A Yazi plugin to fetch the most recent files and allows copy/move to the current directory.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin to copy or move files from recently used files",
+                "homepage": null,
+                "id": 1108736946,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-24T15:03:35Z",
+                "open_issues": 1,
+                "owner": "nsavvide",
+                "repo": "duck-radar.yazi",
+                "stars": 10,
+                "topics": []
+              },
+              "title": "duck-radar.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Upload selected photos to a cloud album via rclone through a 3-step fzf wizard (provider → remote → album; existing or create-new).",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "yazi plugin: upload photos to a cloud album via a 3-step fzf wizard (provider → remote → album)",
+                "homepage": null,
+                "id": 1317393243,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-07-30T16:17:23Z",
+                "open_issues": 0,
+                "owner": "bmcszk",
+                "repo": "yazi-album-plugin.yazi",
+                "stars": 1,
+                "topics": []
+              },
+              "title": "yazi-album-plugin.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "File Actions"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "- Makes filters smarter: continuous filtering, automatically enter unique directory, open file on submitting.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+                "homepage": null,
+                "id": 800575934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:56:55Z",
+                "open_issues": 41,
+                "owner": "yazi-rs",
+                "repo": "plugins",
+                "stars": 612,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "smart-filter.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Filter Enhancements"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "- Yazi plugin for skipping directories with only a single sub-directory.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin for skipping directories with only a single sub-directory",
+                "homepage": null,
+                "id": 790880768,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-05-17T21:18:36Z",
+                "open_issues": 1,
+                "owner": "Rolv-Apneseth",
+                "repo": "bypass.yazi",
+                "stars": 19,
+                "topics": [
+                  "yazi-plugin"
+                ]
+              },
+              "title": "bypass.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Auto-decompress archives and enter them, or enter the deepest directory until it's not the only subdirectory.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Plugin for Yazi to enter the subfolder faster, or open the file directly.",
+                "homepage": null,
+                "id": 810674188,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-02T06:48:22Z",
+                "open_issues": 1,
+                "owner": "ourongxing",
+                "repo": "fast-enter.yazi",
+                "stars": 27,
+                "topics": []
+              },
+              "title": "fast-enter.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Enter Enhancements"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "- Enhances a few Yazi commands with better handling of the choice between selected items and the hovered item. It also auto-extracts archives and includes features like bidirectional skipping of directories with a single sub-directory, along with plugins from the tips page such as `smart-enter`, `smart-paste`, `parent-arrow`, and more.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A plugin to augment some Yazi commands.",
+                "homepage": null,
+                "id": 821505989,
+                "language": "Lua",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-12T19:06:24Z",
+                "open_issues": 0,
+                "owner": "hankertrix",
+                "repo": "augment-command.yazi",
+                "stars": 48,
+                "topics": [
+                  "lua",
+                  "plugin",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "augment-command.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A Yazi plugin that adds the functionality to close and restore tab.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A Yazi plugin that adds the functionality to close and restore tab.",
+                "homepage": null,
+                "id": 795657160,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-05-30T15:59:03Z",
+                "open_issues": 0,
+                "owner": "MasouShizuka",
+                "repo": "close-and-restore-tab.yazi",
+                "stars": 16,
+                "topics": [
+                  "yazi-plugin"
+                ]
+              },
+              "title": "close-and-restore-tab.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Fuzzy search and execute keybinds from your keymap(s). Never forget a keybind again.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "ghetto vibe coded yazi command palette",
+                "homepage": null,
+                "id": 1014678762,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-07-08T05:49:42Z",
+                "open_issues": 2,
+                "owner": "Mr-Ples",
+                "repo": "command-palette.yazi",
+                "stars": 11,
+                "topics": []
+              },
+              "title": "command-palette.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A Yazi plugin to show a confirmation popup when opening a large number of files.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A Yazi plugin to show a confirmation popup when opening a large number of files",
+                "homepage": null,
+                "id": 1178421679,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-23T20:29:47Z",
+                "open_issues": 0,
+                "owner": "walldmtd",
+                "repo": "confirm-open.yazi",
+                "stars": 1,
+                "topics": []
+              },
+              "title": "confirm-open.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A Yazi plugin that will prevent `mgr.quit` terminating Yazi if there are multiple tabs open.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1145376947,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-29T20:30:12Z",
+                "open_issues": 0,
+                "owner": "jessefarinacci",
+                "repo": "confirm-quit.yazi",
+                "stars": 1,
+                "topics": []
+              },
+              "title": "confirm-quit.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A simple plugin to copy the contents of a file to the clipboard directly from yazi.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugins repository created for containing plugins and flavours i make",
+                "homepage": null,
+                "id": 819809235,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-07T17:54:10Z",
+                "open_issues": 0,
+                "owner": "AnirudhG07",
+                "repo": "plugins-yazi",
+                "stars": 30,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "copy-file-contents.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A Yazi plugin for dynamically cycling through the `mgr.linemode` settings.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1145276350,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-29T20:49:23Z",
+                "open_issues": 2,
+                "owner": "jessefarinacci",
+                "repo": "cycle-linemode.yazi",
+                "stars": 2,
+                "topics": []
+              },
+              "title": "cycle-linemode.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Yazi plugin to paste clipboard content to file.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin to paste clipboard content to file.",
+                "homepage": null,
+                "id": 967993076,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-08T12:42:21Z",
+                "open_issues": 0,
+                "owner": "boydaihungst",
+                "repo": "save-clipboard-to-file.yazi",
+                "stars": 19,
+                "topics": []
+              },
+              "title": "save-clipboard-to-file.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Switch to the next tab, or create a new one if already on the last tab.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Plugin for yazi file manager. Switch to the next tab, or create a new one if already on the last tab.",
+                "homepage": null,
+                "id": 1221119105,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-04-25T19:26:06Z",
+                "open_issues": 2,
+                "owner": "pakhromov",
+                "repo": "smart-tab.yazi",
+                "stars": 0,
+                "topics": []
+              },
+              "title": "smart-tab.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Call `sudo` in yazi.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Call `sudo` in yazi",
+                "homepage": null,
+                "id": 769209941,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-30T04:43:06Z",
+                "open_issues": 1,
+                "owner": "TD-Sky",
+                "repo": "sudo.yazi",
+                "stars": 34,
+                "topics": []
+              },
+              "title": "sudo.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Cross-platform system clipboard support for yazi.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Cross platform implementation of a simple system clipboard for yazi file manager",
+                "homepage": null,
+                "id": 842506187,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-29T14:44:45Z",
+                "open_issues": 4,
+                "owner": "orhnk",
+                "repo": "system-clipboard.yazi",
+                "stars": 80,
+                "topics": []
+              },
+              "title": "system-clipboard.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Enables copy–paste functionality between Yazi and other applications. Compatible with Wayland, Xorg, and macOS.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Integrates yazi copy/paste with system clipboard similar to GUI file managers.",
+                "homepage": null,
+                "id": 1071942390,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-06-25T22:18:00Z",
+                "open_issues": 9,
+                "owner": "simla33",
+                "repo": "ucp.yazi",
+                "stars": 30,
+                "topics": []
+              },
+              "title": "ucp.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Wayland implementation of a simple system clipboard for yazi file manager.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Wayland implementation of a simple system clipboard for yazi file manager",
+                "homepage": null,
+                "id": 912206043,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-04-07T19:14:00Z",
+                "open_issues": 1,
+                "owner": "grappas",
+                "repo": "wl-clipboard.yazi",
+                "stars": 25,
+                "topics": []
+              },
+              "title": "wl-clipboard.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General Command Enhancements"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "- A color-coded badge showing each file's age, from red (recent) to violet (old). Inspired by OneCommander.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin: a color-coded badge showing each file's age, red (recent) to violet (old). Inspired by OneCommander.",
+                "homepage": null,
+                "id": 1254381714,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-05-31T08:35:04Z",
+                "open_issues": 0,
+                "owner": "alchezar",
+                "repo": "age-badge.yazi",
+                "stars": 4,
+                "topics": [
+                  "file-manager",
+                  "lua",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "age-badge.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Automatically change number of columns based on available width.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Automatically change the column layout in yazi based on available window width",
+                "homepage": null,
+                "id": 939495946,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-07-25T17:15:51Z",
+                "open_issues": 2,
+                "owner": "josephschmitt",
+                "repo": "auto-layout.yazi",
+                "stars": 9,
+                "topics": []
+              },
+              "title": "auto-layout.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Dual pane navigation like Total Commander.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": true,
+                "description": "Yazi plugin: dual pane navigation",
+                "homepage": null,
+                "id": 875414544,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2024-10-29T16:34:27Z",
+                "open_issues": 1,
+                "owner": "dawsers",
+                "repo": "dual-pane.yazi",
+                "stars": 42,
+                "topics": []
+              },
+              "title": "dual-pane.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Display audio and video information in yazi's linemode.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Display media stats in yazi using ffmpeg",
+                "homepage": null,
+                "id": 1119950210,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-02T15:45:10Z",
+                "open_issues": 0,
+                "owner": "grimandgreedy",
+                "repo": "ffmpeg-stats.yazi",
+                "stars": 9,
+                "topics": [
+                  "ffmpeg",
+                  "media-columns",
+                  "yazi",
+                  "yazi-plugin",
+                  "yazi-plugins"
+                ]
+              },
+              "title": "ffmpeg-stats.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Replaces the default file previewer plugin with extra information. Mimics Midnight Commander's file info for Linux.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "This is a Yazi plugin that replaces the default file preview with extra information.",
+                "homepage": null,
+                "id": 889690621,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-08T12:36:16Z",
+                "open_issues": 0,
+                "owner": "boydaihungst",
+                "repo": "file-extra-metadata.yazi",
+                "stars": 22,
+                "topics": []
+              },
+              "title": "file-extra-metadata.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Show the current partition's used space in the header or status.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A Yazi plugin to show used partition space",
+                "homepage": null,
+                "id": 1030579441,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-23T04:55:10Z",
+                "open_issues": 2,
+                "owner": "walldmtd",
+                "repo": "fs-usage.yazi",
+                "stars": 6,
+                "topics": []
+              },
+              "title": "fs-usage.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Add a full border to Yazi to make it look fancier.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+                "homepage": null,
+                "id": 800575934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:56:55Z",
+                "open_issues": 41,
+                "owner": "yazi-rs",
+                "repo": "plugins",
+                "stars": 612,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "full-border.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Bring macOS's awesome tagging feature to Yazi! The plugin it's only available for macOS just like the name says.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+                "homepage": null,
+                "id": 800575934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:56:55Z",
+                "open_issues": 41,
+                "owner": "yazi-rs",
+                "repo": "plugins",
+                "stars": 612,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "mactag.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Remove the status bar.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+                "homepage": null,
+                "id": 800575934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:56:55Z",
+                "open_issues": 41,
+                "owner": "yazi-rs",
+                "repo": "plugins",
+                "stars": 612,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "no-status.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Adapt column widths to content and screen size, with a reading mode that widens the preview, built for phone-narrow terminals.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugins: VS Code style git colors, git gutter preview, mobile-friendly auto layout",
+                "homepage": null,
+                "id": 1296976280,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-07-13T13:29:44Z",
+                "open_issues": 4,
+                "owner": "ShikherVerma",
+                "repo": "yazi-plugins",
+                "stars": 1,
+                "topics": []
+              },
+              "title": "mobile-auto-layout.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- oh-my-posh prompt plugin for Yazi.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "oh-my-posh prompt plugin for Yazi file manager",
+                "homepage": null,
+                "id": 816808359,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-02-17T03:44:33Z",
+                "open_issues": 0,
+                "owner": "saumyajyoti",
+                "repo": "omp.yazi",
+                "stars": 24,
+                "topics": [
+                  "oh-my-posh",
+                  "oh-my-posh-yazi",
+                  "ohmyposh",
+                  "prompt-yazi",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "omp.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Open files using a prompted command.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin for opening files with a prompted command",
+                "homepage": null,
+                "id": 827850445,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-05T08:48:30Z",
+                "open_issues": 1,
+                "owner": "Ape",
+                "repo": "open-with-cmd.yazi",
+                "stars": 39,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "open-with-cmd.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Save/Load linemode, sort, show_hidden preferences based on location/folder. Replace [Folder-specific rules](https://yazi-rs.github.io/docs/tips#folder-rules)",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "This is a Yazi plugin that save linemode,  sort, show_hidden preferences by location.",
+                "homepage": null,
+                "id": 929981819,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-08T12:37:43Z",
+                "open_issues": 0,
+                "owner": "boydaihungst",
+                "repo": "pref-by-location.yazi",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "pref-by-location.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Bring tagging feature for linux/windows/macos! The plugin isn't use mactag.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "This is a Yazi plugin that add tags to files/folders. Each tag has its own tag key. DISCLAIM: This is not mactag, and won't use mactag.",
+                "homepage": null,
+                "id": 932126499,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-08T12:39:52Z",
+                "open_issues": 0,
+                "owner": "boydaihungst",
+                "repo": "simple-tag.yazi",
+                "stars": 36,
+                "topics": []
+              },
+              "title": "simple-tag.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Minimalistic status line with useful file attribute information.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin for a simplified status line style",
+                "homepage": null,
+                "id": 825987094,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-02-09T10:10:19Z",
+                "open_issues": 0,
+                "owner": "Ape",
+                "repo": "simple-status.yazi",
+                "stars": 6,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "simple-status.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Provides a dual-pane view by splitting the screen between two tabs.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1205306509,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-18T14:46:17Z",
+                "open_issues": 4,
+                "owner": "terrakok",
+                "repo": "split-tabs.yazi",
+                "stars": 31,
+                "topics": []
+              },
+              "title": "split-tabs.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Starship prompt plugin for Yazi.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Starship prompt plugin for yazi",
+                "homepage": null,
+                "id": 769627113,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-17T19:04:21Z",
+                "open_issues": 2,
+                "owner": "Rolv-Apneseth",
+                "repo": "starship.yazi",
+                "stars": 151,
+                "topics": [
+                  "yazi-plugin"
+                ]
+              },
+              "title": "starship.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Toggle the show, hide, and maximize states for different panes: parent, current, and preview.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+                "homepage": null,
+                "id": 800575934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:56:55Z",
+                "open_issues": 41,
+                "owner": "yazi-rs",
+                "repo": "plugins",
+                "stars": 612,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "toggle-pane.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Toggle on/off parent, current, or preview independently.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": true,
+                "description": "Yazi plugin: toggle different view configurations with or without preview",
+                "homepage": null,
+                "id": 870821093,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2024-12-19T22:21:15Z",
+                "open_issues": 1,
+                "owner": "dawsers",
+                "repo": "toggle-view.yazi",
+                "stars": 18,
+                "topics": []
+              },
+              "title": "toggle-view.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Plugin for customizing both header-line and status-line.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "The first Yazi plugin for customizing both header-line and status-line.",
+                "homepage": null,
+                "id": 822050040,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-27T09:40:15Z",
+                "open_issues": 5,
+                "owner": "imsi32",
+                "repo": "yatline.yazi",
+                "stars": 150,
+                "topics": [
+                  "customization",
+                  "header-line",
+                  "status-line",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "yatline.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Simple lualine-like status line.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Simple lualine-like status line for yazi",
+                "homepage": null,
+                "id": 829396966,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-15T16:09:46Z",
+                "open_issues": 0,
+                "owner": "llanosrocas",
+                "repo": "yaziline.yazi",
+                "stars": 34,
+                "topics": [
+                  "lua",
+                  "status-line",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "yaziline.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UI enhancements"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "- Show the status of Git file changes as linemode in the file list.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+                "homepage": null,
+                "id": 800575934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:56:55Z",
+                "open_issues": 41,
+                "owner": "yazi-rs",
+                "repo": "plugins",
+                "stars": 612,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "yazi-rs/git.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- git status header inspired by powerlevel10k.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Git status header for yazi inspired by powerlevel10k",
+                "homepage": null,
+                "id": 831784359,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-26T11:33:54Z",
+                "open_issues": 0,
+                "owner": "llanosrocas",
+                "repo": "githead.yazi",
+                "stars": 20,
+                "topics": [
+                  "header-line",
+                  "lua",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "githead.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Same as vcs-files but include untracked files",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin that filter all changed git files",
+                "homepage": null,
+                "id": 1000427955,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-03-26T17:55:13Z",
+                "open_issues": 0,
+                "owner": "ktunprasert",
+                "repo": "git-files.yazi",
+                "stars": 4,
+                "topics": [
+                  "lua",
+                  "yazi",
+                  "yazi-plugin",
+                  "yazi-plugins",
+                  "yazi-rs"
+                ]
+              },
+              "title": "git-files.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Manage Git directories with lazygit through a quick shortcut.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "lazygit plugin for yazi",
+                "homepage": null,
+                "id": 843333197,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-05-02T12:36:31Z",
+                "open_issues": 0,
+                "owner": "Lil-Dank",
+                "repo": "lazygit.yazi",
+                "stars": 76,
+                "topics": []
+              },
+              "title": "lazygit.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Show Git file changes in Yazi.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+                "homepage": null,
+                "id": 800575934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:56:55Z",
+                "open_issues": 41,
+                "owner": "yazi-rs",
+                "repo": "plugins",
+                "stars": 612,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "vcs-files.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Color file names by their git status, VS Code style, with status letters for files and dot badges for directories in every column.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugins: VS Code style git colors, git gutter preview, mobile-friendly auto layout",
+                "homepage": null,
+                "id": 1296976280,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-07-13T13:29:44Z",
+                "open_issues": 4,
+                "owner": "ShikherVerma",
+                "repo": "yazi-plugins",
+                "stars": 1,
+                "topics": []
+              },
+              "title": "vscode-git-colors.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Copy file path relative to Git root.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin to copy file path relative to git root",
+                "homepage": null,
+                "id": 921953664,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-12-24T21:04:30Z",
+                "open_issues": 3,
+                "owner": "aresler",
+                "repo": "path-from-root.yazi",
+                "stars": 13,
+                "topics": []
+              },
+              "title": "path-from-root.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Git Utils"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "- Preview freedesktop-compatible thumbnails using allmytoes .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Generate freedesktop-compatible thumbnails while using yazi",
+                "homepage": null,
+                "id": 764568891,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2025-11-22T02:32:37Z",
+                "open_issues": 0,
+                "owner": "Sonico98",
+                "repo": "allmytoes.yazi",
+                "stars": 14,
+                "topics": []
+              },
+              "title": "allmytoes.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Preview images using nsxiv integration.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Sxiv integration for yazi",
+                "homepage": null,
+                "id": 948697893,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-19T12:15:16Z",
+                "open_issues": 0,
+                "owner": "NoponyAsked",
+                "repo": "sxiv.yazi",
+                "stars": 9,
+                "topics": [
+                  "image-thumbnails",
+                  "sxiv",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "sxiv",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Preloader Images"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "- A common file type MIME-type library specifically designed for Yazi.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+                "homepage": null,
+                "id": 800575934,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T15:56:55Z",
+                "open_issues": 41,
+                "owner": "yazi-rs",
+                "repo": "plugins",
+                "stars": 612,
+                "topics": [
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "yazi-rs/mime-ext.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fetchers"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "- Neovim plugin that lets you use your favorite terminal file managers.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.",
+                "homepage": null,
+                "id": 677736276,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2023-09-16T15:10:19Z",
+                "open_issues": 0,
+                "owner": "Eric-Song-Nop",
+                "repo": "fm-nvim",
+                "stars": 6,
+                "topics": []
+              },
+              "title": "fm-nvim",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A fork of DreamMaoMao/yazi.nvim with a bunch of additional features.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A Neovim Plugin for the yazi terminal file manager",
+                "homepage": null,
+                "id": 763068884,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-02T21:56:28Z",
+                "open_issues": 6,
+                "owner": "mikavilpas",
+                "repo": "yazi.nvim",
+                "stars": 1885,
+                "topics": [
+                  "neovim",
+                  "plugin",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "mikavilpas/yazi.nvim",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Neovim plugin for terminal file manager integration.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Neovim plugin for terminal file manager integration",
+                "homepage": null,
+                "id": 689721219,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-18T06:58:37Z",
+                "open_issues": 0,
+                "owner": "Rolv-Apneseth",
+                "repo": "tfm.nvim",
+                "stars": 101,
+                "topics": []
+              },
+              "title": "tfm.nvim",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Vim plugin integrating Yazi for seamless in-editor file browsing and navigation.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Vim plugin integrating the Yazi file manager for seamless in-editor file browsing and navigation.",
+                "homepage": null,
+                "id": 1012487917,
+                "language": "Vim Script",
+                "license": "MIT",
+                "last_commit": "2025-07-29T16:25:03Z",
+                "open_issues": 2,
+                "owner": "yukimura1227",
+                "repo": "vim-yazi",
+                "stars": 23,
+                "topics": []
+              },
+              "title": "vim-yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Zellij, Yazi and nushell adding a File Tree to Helix & helix-friendly keybindigs for zellij.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazelix Nova is a Nix-packaged terminal workspace built from focused first-party components, including Mars, Nova Zellij, Nova Helix, Yazi, Nushell, Ratconfig, popups, status widgets, cursors, and Anima.",
+                "homepage": "https://nova.yazelix.com",
+                "id": 746026727,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-03T04:48:06Z",
+                "open_issues": 22,
+                "owner": "Yazelix",
+                "repo": "nova",
+                "stars": 1195,
+                "topics": [
+                  "editor",
+                  "file-manager",
+                  "helix",
+                  "home-manager",
+                  "ide",
+                  "lua",
+                  "multiplexer",
+                  "nix",
+                  "nix-flake",
+                  "nushell",
+                  "plugins",
+                  "rust",
+                  "shell",
+                  "terminal",
+                  "terminal-editor",
+                  "terminal-emulator",
+                  "yazi",
+                  "zellij"
+                ]
+              },
+              "title": "yazelix",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Vim plugin for Yazi.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "yazi integration for plain vim",
+                "homepage": null,
+                "id": 800062041,
+                "language": "Vim Script",
+                "license": null,
+                "last_commit": "2024-05-15T13:03:32Z",
+                "open_issues": 2,
+                "owner": "chriszarate",
+                "repo": "yazi.vim",
+                "stars": 20,
+                "topics": []
+              },
+              "title": "yazi.vim",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Group of configuration files and scripts to create an IDE-like experience in zellij.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Group of configuration files and scripts to create an IDE-like experience in zellij",
+                "homepage": null,
+                "id": 918662346,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2025-02-26T03:44:49Z",
+                "open_issues": 12,
+                "owner": "josephschmitt",
+                "repo": "zide",
+                "stars": 342,
+                "topics": []
+              },
+              "title": "zide",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text Editor"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "- Display a prompt for executing yazi commands.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A plugin for Yazi that provides a command palette for executing commands interactively.",
+                "homepage": null,
+                "id": 822252869,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-28T23:17:50Z",
+                "open_issues": 1,
+                "owner": "KKV9",
+                "repo": "command.yazi",
+                "stars": 19,
+                "topics": [
+                  "command",
+                  "command-pallete",
+                  "file-manager",
+                  "terminal",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "command.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Set your custom-shell as your default yazi Shell.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Set your custom-shell as default shell in yazi!",
+                "homepage": null,
+                "id": 821717185,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-08-07T16:52:47Z",
+                "open_issues": 0,
+                "owner": "AnirudhG07",
+                "repo": "custom-shell.yazi",
+                "stars": 43,
+                "topics": []
+              },
+              "title": "custom-shell.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Launch dsh-TUI with explicitly selected Yazi files appended to an editable prompt.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Launch dsh-TUI from Yazi with explicitly selected files in the editable prompt",
+                "homepage": null,
+                "id": 1358790796,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-09-06T05:43:32Z",
+                "open_issues": 0,
+                "owner": "tr1v3r",
+                "repo": "dsh-tui.yazi",
+                "stars": 0,
+                "topics": [
+                  "deepseek-harness",
+                  "dsh",
+                  "dsh-tui",
+                  "terminal",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "dsh-tui.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- A plugin for yazi to execute `nu` code.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin to execute nu code",
+                "homepage": null,
+                "id": 952164913,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-01-22T17:34:22Z",
+                "open_issues": 0,
+                "owner": "Tyarel8",
+                "repo": "nu.yazi",
+                "stars": 4,
+                "topics": [
+                  "nushell",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "nu.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Peek a shell command's output as a toast without leaving the file list.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1314282555,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-09-25T17:20:46Z",
+                "open_issues": 0,
+                "owner": "alastairsounds",
+                "repo": "yazi-plugins",
+                "stars": 2,
+                "topics": []
+              },
+              "title": "shell-peek.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Toggle persistent tmux-backed TUIs (pi) and open a shell in the current Yazi directory.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Toggle long-running TUIs from Yazi with persistent tmux sessions",
+                "homepage": null,
+                "id": 1170319097,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-03-03T01:38:41Z",
+                "open_issues": 0,
+                "owner": "danchamorro",
+                "repo": "tui-toggle.yazi",
+                "stars": 1,
+                "topics": []
+              },
+              "title": "tui-toggle.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Display an indicator in your prompt when running inside a yazi subshell.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Instructions to add an indicator when running a yazi subshell",
+                "homepage": null,
+                "id": 761361095,
+                "language": "Shell",
+                "license": null,
+                "last_commit": "2024-11-30T23:00:00Z",
+                "open_issues": 3,
+                "owner": "Sonico98",
+                "repo": "yazi-prompt.sh",
+                "stars": 24,
+                "topics": []
+              },
+              "title": "yazi-prompt.sh",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Shell Plugins"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "- Framework to build your own spotter.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "spot.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Spotter for audio metadata.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "spot-audio.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Spot comic books that have ComicInfo.xml.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "spot-cbz.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Spotter for video metadata.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "spot-video.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Spotter for image metadata and exif.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "plugins for the yazi file manager",
+                "homepage": null,
+                "id": 1072044407,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T06:37:41Z",
+                "open_issues": 1,
+                "owner": "AminurAlam",
+                "repo": "yazi-plugins",
+                "stars": 26,
+                "topics": []
+              },
+              "title": "spot-image.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Display total duration of selected video files.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1109715983,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-04-29T10:31:02Z",
+                "open_issues": 0,
+                "owner": "tasnimAlam",
+                "repo": "video-duration.yazi",
+                "stars": 0,
+                "topics": []
+              },
+              "title": "video-duration.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spotters"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "- Make a hot `theme.toml` for your Yazi icons with your favorite color palette.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Make a hot `theme.toml` for your Yazi icons with your favorite color palette",
+                "homepage": null,
+                "id": 812661775,
+                "language": "Lua",
+                "license": "Unlicense",
+                "last_commit": "2026-07-11T10:57:39Z",
+                "open_issues": 1,
+                "owner": "lpnh",
+                "repo": "icons-brew.yazi",
+                "stars": 29,
+                "topics": [
+                  "catppuccin",
+                  "icons",
+                  "tui",
+                  "yazi"
+                ]
+              },
+              "title": "icons-brew.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- AI-powered document intelligence - upload, extract, and search documents with pre-built agents for contracts, invoices, and compliance.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "AI-powered document intelligence for Yazi file manager",
+                "homepage": "https://doclayer.ai",
+                "id": 1125454735,
+                "language": "Lua",
+                "license": "NOASSERTION",
+                "last_commit": "2026-01-04T20:12:59Z",
+                "open_issues": 0,
+                "owner": "doclayer",
+                "repo": "yazi-doclayer",
+                "stars": 1,
+                "topics": []
+              },
+              "title": "doclayer.yazi",
+              "first_seen": "2026-10-03T05:14:23.410Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utilities"
         }
       ],
-      "title": "simple-mtpfs.yazi - Mounting MTP devices (Android, Camera, etc) in Linux."
+      "title": "Plugins"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:48:46.780Z",
+    "last_updated": "2026-10-03T05:14:23.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
@@ -71,7 +3990,7 @@
       "open_issues": 1,
       "owner": "AnirudhG07",
       "repo": "awesome-yazi",
-      "stars": 787,
+      "stars": 789,
       "topics": [
         "awesome",
         "awesome-list",
