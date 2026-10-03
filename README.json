@@ -210,7 +210,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "font-sample.yazi",
@@ -719,7 +719,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "preview-audio.yazi",
@@ -740,7 +740,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "preview-cbz.yazi",
@@ -761,7 +761,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "preview-epub.yazi",
@@ -782,7 +782,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "preview-git.yazi",
@@ -803,7 +803,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "preview-sqlite.yazi",
@@ -824,7 +824,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "preview-typst.yazi",
@@ -1124,7 +1124,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "fchar.yazi",
@@ -1294,7 +1294,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "nextension.yazi",
@@ -3474,7 +3474,7 @@
                 "open_issues": 6,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
-                "stars": 1885,
+                "stars": 1884,
                 "topics": [
                   "neovim",
                   "plugin",
@@ -3500,7 +3500,7 @@
                 "open_issues": 0,
                 "owner": "Rolv-Apneseth",
                 "repo": "tfm.nvim",
-                "stars": 101,
+                "stars": 102,
                 "topics": []
               },
               "title": "tfm.nvim",
@@ -3538,8 +3538,8 @@
                 "id": 746026727,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:48:06Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-03T14:45:16Z",
+                "open_issues": 21,
                 "owner": "Yazelix",
                 "repo": "nova",
                 "stars": 1195,
@@ -3803,7 +3803,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "spot.yazi",
@@ -3824,7 +3824,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "spot-audio.yazi",
@@ -3845,7 +3845,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "spot-cbz.yazi",
@@ -3866,7 +3866,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "spot-video.yazi",
@@ -3887,7 +3887,7 @@
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "title": "spot-image.yazi",
@@ -3978,7 +3978,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:14:23.410Z",
+    "last_updated": "2026-10-03T15:13:58.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
