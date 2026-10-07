@@ -605,7 +605,7 @@
                 "open_issues": 0,
                 "owner": "ndtoan96",
                 "repo": "ouch.yazi",
-                "stars": 198,
+                "stars": 197,
                 "topics": [
                   "archive",
                   "compression",
@@ -1079,7 +1079,7 @@
                 "open_issues": 6,
                 "owner": "stelcodes",
                 "repo": "bunny.yazi",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "title": "bunny.yazi",
@@ -1585,7 +1585,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-08-22T20:32:23Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "KKV9",
                 "repo": "compress.yazi",
                 "stars": 140,
@@ -1885,7 +1885,7 @@
                 "open_issues": 0,
                 "owner": "ndtoan96",
                 "repo": "ouch.yazi",
-                "stars": 198,
+                "stars": 197,
                 "topics": [
                   "archive",
                   "compression",
@@ -3274,7 +3274,7 @@
                 "open_issues": 0,
                 "owner": "Lil-Dank",
                 "repo": "lazygit.yazi",
-                "stars": 76,
+                "stars": 77,
                 "topics": []
               },
               "title": "lazygit.yazi",
@@ -3470,11 +3470,11 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-06T14:30:16Z",
+                "last_commit": "2026-10-07T17:55:50Z",
                 "open_issues": 6,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
-                "stars": 1884,
+                "stars": 1885,
                 "topics": [
                   "neovim",
                   "plugin",
@@ -3538,11 +3538,11 @@
                 "id": 746026727,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T15:12:36Z",
+                "last_commit": "2026-10-06T18:34:29Z",
                 "open_issues": 21,
                 "owner": "Yazelix",
                 "repo": "nova",
-                "stars": 1196,
+                "stars": 1197,
                 "topics": [
                   "editor",
                   "file-manager",
@@ -3676,7 +3676,7 @@
                 "id": 1358790796,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-06T16:46:21Z",
+                "last_commit": "2026-10-07T02:59:10Z",
                 "open_issues": 0,
                 "owner": "tr1v3r",
                 "repo": "agent-tui.yazi",
@@ -3978,7 +3978,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T17:23:31.496Z",
+    "last_updated": "2026-10-07T17:57:18.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
