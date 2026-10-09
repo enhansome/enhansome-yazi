@@ -44,7 +44,7 @@ Each plugin info contains the installation instruction preferably using `ya pkg`
 
 * [Website](https://yazi-rs.github.io)
 * [Documentation](https://yazi-rs.github.io/docs/installation)
-* [Repository](https://github.com/sxyazi/yazi) ⭐ 42,694 | 🐛 69 | 🌐 Rust | 📅 2026-10-05
+* [Repository](https://github.com/sxyazi/yazi) ⭐ 42,719 | 🐛 68 | 🌐 Rust | 📅 2026-10-09
 
 ## Plugins
 
@@ -90,6 +90,17 @@ ya pkg add Shallow-Seek/djvu-view
 
 ```bash
 ya pkg add wylie102/duckdb
+```
+
+</details>
+
+<details>
+<summary>
+<a href="https://github.com/tr1v3r/epub-preview.yazi">epub-preview.yazi</a> - Preview EPUB covers using PyMuPDF, so no Linux-only thumbnailer is needed and it works on macOS too.
+</summary>
+
+```bash
+ya pkg add tr1v3r/epub-preview
 ```
 
 </details>
@@ -1026,11 +1037,33 @@ ya pkg add yazi-rs/plugins:diff
 
 <details>
 <summary>
+<a href="https://github.com/glassjaw/difftool.yazi">difftool.yazi</a> - Compare two selected files or directories with your configured `git difftool` (Meld, VS Code, Beyond Compare, vimdiff, …).
+</summary>
+
+```bash
+ya pkg add glassjaw/difftool
+```
+
+</details>
+
+<details>
+<summary>
 <a href="https://github.com/mshnwq/dupes.yazi">dupes.yazi</a> - Duplicate files plugin for Yazi using `jdupes`.
 </summary>
 
 ```bash
 ya pkg add mshnwq/dupes
+```
+
+</details>
+
+<details>
+<summary>
+<a href="https://github.com/lesliek-dev/encapsulate.yazi">encapsulate.yazi</a> - Move individual selected files into their own self-named directories.
+</summary>
+
+```bash
+ya pkg add lesliek-dev/encapsulate
 ```
 
 </details>
@@ -1669,7 +1702,7 @@ ya pkg add yazi-rs/plugins:mactag
 ya pkg add yazi-rs/plugins:no-status
 ```
 
-> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 42,694 | 🐛 69 | 🌐 Rust | 📅 2026-10-05 in this discussion.
+> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 42,719 | 🐛 68 | 🌐 Rust | 📅 2026-10-09 in this discussion.
 
 </details>
 
@@ -2488,4 +2521,4 @@ Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-ya
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
