@@ -38,7 +38,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2025-11-19T02:53:10Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "walldmtd",
                 "repo": "blender-preview.yazi",
                 "stars": 2,
@@ -83,7 +83,7 @@
                 "open_issues": 16,
                 "owner": "wylie102",
                 "repo": "duckdb.yazi",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "csv",
                   "csv-viewer",
@@ -353,7 +353,7 @@
                 "open_issues": 2,
                 "owner": "walldmtd",
                 "repo": "krita-preview.yazi",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "title": "krita-preview.yazi",
@@ -374,7 +374,7 @@
                 "open_issues": 42,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 616,
+                "stars": 615,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -636,7 +636,7 @@
                 "open_issues": 0,
                 "owner": "ndtoan96",
                 "repo": "ouch.yazi",
-                "stars": 197,
+                "stars": 196,
                 "topics": [
                   "archive",
                   "compression",
@@ -705,7 +705,7 @@
                 "open_issues": 42,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 616,
+                "stars": 615,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -1301,7 +1301,7 @@
                 "open_issues": 42,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 616,
+                "stars": 615,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -1367,7 +1367,7 @@
                 "open_issues": 8,
                 "owner": "dedukun",
                 "repo": "relative-motions.yazi",
-                "stars": 124,
+                "stars": 123,
                 "topics": []
               },
               "title": "relative-motions.yazi",
@@ -1646,7 +1646,7 @@
                 "open_issues": 42,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 616,
+                "stars": 615,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -1712,7 +1712,7 @@
                 "open_issues": 42,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 616,
+                "stars": 615,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -1961,7 +1961,7 @@
                 "open_issues": 0,
                 "owner": "ndtoan96",
                 "repo": "ouch.yazi",
-                "stars": 197,
+                "stars": 196,
                 "topics": [
                   "archive",
                   "compression",
@@ -2404,7 +2404,7 @@
                 "open_issues": 42,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 616,
+                "stars": 615,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -2435,7 +2435,7 @@
                 "open_issues": 1,
                 "owner": "Rolv-Apneseth",
                 "repo": "bypass.yazi",
-                "stars": 19,
+                "stars": 18,
                 "topics": [
                   "yazi-plugin"
                 ]
@@ -2913,7 +2913,7 @@
                 "open_issues": 42,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 616,
+                "stars": 615,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -2937,7 +2937,7 @@
                 "open_issues": 42,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 616,
+                "stars": 615,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -2961,7 +2961,7 @@
                 "open_issues": 42,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 616,
+                "stars": 615,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3097,7 +3097,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2025-02-09T10:10:19Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Ape",
                 "repo": "simple-status.yazi",
                 "stars": 6,
@@ -3168,7 +3168,7 @@
                 "open_issues": 42,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 616,
+                "stars": 615,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3236,8 +3236,8 @@
                 "id": 829396966,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-08-15T16:09:46Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-10T11:09:56Z",
+                "open_issues": 0,
                 "owner": "llanosrocas",
                 "repo": "yaziline.yazi",
                 "stars": 34,
@@ -3273,7 +3273,7 @@
                 "open_issues": 42,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 616,
+                "stars": 615,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3371,7 +3371,7 @@
                 "open_issues": 42,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 616,
+                "stars": 615,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3498,7 +3498,7 @@
                 "open_issues": 42,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 616,
+                "stars": 615,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3546,11 +3546,11 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-09T17:08:13Z",
+                "last_commit": "2026-10-10T01:24:38Z",
                 "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
-                "stars": 1888,
+                "stars": 1887,
                 "topics": [
                   "neovim",
                   "plugin",
@@ -3614,7 +3614,7 @@
                 "id": 746026727,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T16:16:35Z",
+                "last_commit": "2026-10-10T15:11:49Z",
                 "open_issues": 21,
                 "owner": "Yazelix",
                 "repo": "nova",
@@ -3679,7 +3679,7 @@
                 "open_issues": 12,
                 "owner": "josephschmitt",
                 "repo": "zide",
-                "stars": 343,
+                "stars": 344,
                 "topics": []
               },
               "title": "zide",
@@ -3851,7 +3851,7 @@
                 "open_issues": 3,
                 "owner": "Sonico98",
                 "repo": "yazi-prompt.sh",
-                "stars": 24,
+                "stars": 23,
                 "topics": []
               },
               "title": "yazi-prompt.sh",
@@ -4054,7 +4054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:32:11.384Z",
+    "last_updated": "2026-10-10T16:22:01.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
