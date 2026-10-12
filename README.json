@@ -585,7 +585,7 @@
                 "open_issues": 10,
                 "owner": "macydnah",
                 "repo": "office.yazi",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "office-preload",
                   "office-preview",
@@ -1040,7 +1040,7 @@
                 "open_issues": 4,
                 "owner": "ShikherVerma",
                 "repo": "yazi-plugins",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "title": "vscode-git-gutter.yazi",
@@ -1928,7 +1928,7 @@
                 "open_issues": 0,
                 "owner": "skylightlim",
                 "repo": "omniconvert.yazi",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "bash",
                   "ffmpeg",
@@ -2512,7 +2512,7 @@
                 "open_issues": 0,
                 "owner": "MasouShizuka",
                 "repo": "close-and-restore-tab.yazi",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "yazi-plugin"
                 ]
@@ -2841,7 +2841,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-09-02T15:45:10Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "grimandgreedy",
                 "repo": "ffmpeg-stats.yazi",
                 "stars": 9,
@@ -2985,7 +2985,7 @@
                 "open_issues": 4,
                 "owner": "ShikherVerma",
                 "repo": "yazi-plugins",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "title": "mobile-auto-layout.yazi",
@@ -3395,7 +3395,7 @@
                 "open_issues": 4,
                 "owner": "ShikherVerma",
                 "repo": "yazi-plugins",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "title": "vscode-git-colors.yazi",
@@ -3546,7 +3546,7 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-11T13:40:41Z",
+                "last_commit": "2026-10-12T15:41:49Z",
                 "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
@@ -3614,11 +3614,11 @@
                 "id": 746026727,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T15:55:43Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-12T19:46:03Z",
+                "open_issues": 20,
                 "owner": "Yazelix",
                 "repo": "nova",
-                "stars": 1199,
+                "stars": 1200,
                 "topics": [
                   "editor",
                   "file-manager",
@@ -3707,7 +3707,7 @@
                 "open_issues": 1,
                 "owner": "KKV9",
                 "repo": "command.yazi",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "command",
                   "command-pallete",
@@ -4054,7 +4054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T16:45:10.964Z",
+    "last_updated": "2026-10-12T20:24:40.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
@@ -4063,10 +4063,10 @@
       "language": "Shell",
       "license": "CC0-1.0",
       "last_commit": "2026-10-09T16:18:47Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "AnirudhG07",
       "repo": "awesome-yazi",
-      "stars": 792,
+      "stars": 794,
       "topics": [
         "awesome",
         "awesome-list",
