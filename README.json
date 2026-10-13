@@ -1406,7 +1406,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-01-16T05:05:53Z",
-                "open_issues": 1,
+                "open_issues": 3,
                 "owner": "iynaix",
                 "repo": "time-travel.yazi",
                 "stars": 30,
@@ -3121,7 +3121,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-08-18T14:46:17Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "terrakok",
                 "repo": "split-tabs.yazi",
                 "stars": 31,
@@ -3213,7 +3213,7 @@
                 "open_issues": 2,
                 "owner": "imsi32",
                 "repo": "yatline.yazi",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "customization",
                   "header-line",
@@ -3546,7 +3546,7 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-12T15:41:49Z",
+                "last_commit": "2026-10-13T14:33:55Z",
                 "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
@@ -3614,11 +3614,11 @@
                 "id": 746026727,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T19:46:03Z",
+                "last_commit": "2026-10-13T18:10:27Z",
                 "open_issues": 20,
                 "owner": "Yazelix",
                 "repo": "nova",
-                "stars": 1200,
+                "stars": 1201,
                 "topics": [
                   "editor",
                   "file-manager",
@@ -4054,7 +4054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:24:40.299Z",
+    "last_updated": "2026-10-13T18:29:07.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
