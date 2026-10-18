@@ -444,7 +444,7 @@
                 "open_issues": 0,
                 "owner": "boydaihungst",
                 "repo": "mediainfo.yazi",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "title": "mediainfo.yazi",
@@ -1213,13 +1213,13 @@
               "description": "- A plugin for yazi to cd to the available windows drives from an fzf menu.",
               "node_type": "item",
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Yazi plugin to cd to drives with a fzf menu",
                 "homepage": null,
                 "id": 935559481,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-03-30T12:36:32Z",
+                "last_commit": "2026-10-18T11:14:32Z",
                 "open_issues": 0,
                 "owner": "Tyarel8",
                 "repo": "goto-drives.yazi",
@@ -3546,7 +3546,7 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-17T09:05:29Z",
+                "last_commit": "2026-10-18T09:37:40Z",
                 "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
@@ -3614,7 +3614,7 @@
                 "id": 746026727,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T14:22:20Z",
+                "last_commit": "2026-10-18T13:39:08Z",
                 "open_issues": 21,
                 "owner": "Yazelix",
                 "repo": "nova",
@@ -4054,7 +4054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T14:23:41.549Z",
+    "last_updated": "2026-10-18T14:47:24.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
