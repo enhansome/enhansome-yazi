@@ -181,6 +181,27 @@
             },
             {
               "children": [],
+              "description": "- 3D model previewer with orbit, zoom and model stats, powered by f3d . Supports glTF, FBX, OBJ, STL, USD, STEP and more.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi 3D model previewer with orbit, zoom & model stats, powered by f3d",
+                "homepage": null,
+                "id": 1421457789,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-16T15:11:27Z",
+                "open_issues": 0,
+                "owner": "DervexDev",
+                "repo": "f3d.yazi",
+                "stars": 0,
+                "topics": []
+              },
+              "title": "f3d.yazi",
+              "first_seen": "2026-10-20T15:49:00.419Z"
+            },
+            {
+              "children": [],
               "description": "- Preview 3d objects like stl, step, 3mf, obj, and more using f3d.",
               "node_type": "item",
               "repo_info": {
@@ -237,7 +258,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -636,7 +657,7 @@
                 "open_issues": 0,
                 "owner": "ndtoan96",
                 "repo": "ouch.yazi",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "archive",
                   "compression",
@@ -746,7 +767,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -767,7 +788,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -788,7 +809,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -809,7 +830,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -830,7 +851,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -851,7 +872,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -1151,7 +1172,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -1321,7 +1342,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -1961,7 +1982,7 @@
                 "open_issues": 0,
                 "owner": "ndtoan96",
                 "repo": "ouch.yazi",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "archive",
                   "compression",
@@ -2810,6 +2831,33 @@
             },
             {
               "children": [],
+              "description": "- Dual-pane view by splitting the screen between two tabs, with a runtime flip between side-by-side and stacked layouts, pane resizing, and cross-pane copy/move. Fork of split-tabs.yazi with bug fixes.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Yazi plugin: dual-pane split view with switchable orientation (side-by-side or stacked), pane resize, and cross-pane copy/move. Fork of terrakok/split-tabs.yazi.",
+                "homepage": null,
+                "id": 1417099262,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-17T10:46:22Z",
+                "open_issues": 0,
+                "owner": "Geronfir",
+                "repo": "Bifold.yazi",
+                "stars": 1,
+                "topics": [
+                  "dual-pane",
+                  "lua",
+                  "tui",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "bifold.yazi",
+              "first_seen": "2026-10-20T15:49:00.419Z"
+            },
+            {
+              "children": [],
               "description": "- Dual pane navigation like Total Commander.",
               "node_type": "item",
               "repo_info": {
@@ -3155,6 +3203,31 @@
             },
             {
               "children": [],
+              "description": "- Turn the linemode into as many columns as you like (size, timestamps, permissions, owner and more, or your own), each styled its own way, with gradients across the folder.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A Yazi plugin that replaces the linemode with configurable columns",
+                "homepage": null,
+                "id": 1348427048,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-20T12:37:46Z",
+                "open_issues": 1,
+                "owner": "yohkuri",
+                "repo": "supaline.yazi",
+                "stars": 0,
+                "topics": [
+                  "lua",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "supaline.yazi",
+              "first_seen": "2026-10-20T15:49:00.419Z"
+            },
+            {
+              "children": [],
               "description": "- Toggle the show, hide, and maximize states for different panes: parent, current, and preview.",
               "node_type": "item",
               "repo_info": {
@@ -3355,6 +3428,31 @@
               },
               "title": "lazygit.yazi",
               "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Show the branch and Git status next to every repository directory in the file list.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Show the branch and status of Git repositories next to their directory in Yazi's file list, like a shell prompt does.",
+                "homepage": null,
+                "id": 1416057586,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-12T20:05:39Z",
+                "open_issues": 0,
+                "owner": "ThomasVanRiel",
+                "repo": "repo-status.yazi",
+                "stars": 1,
+                "topics": [
+                  "git",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "repo-status.yazi",
+              "first_seen": "2026-10-20T15:49:00.419Z"
             },
             {
               "children": [],
@@ -3618,7 +3716,7 @@
                 "open_issues": 22,
                 "owner": "Yazelix",
                 "repo": "nova",
-                "stars": 1203,
+                "stars": 1204,
                 "topics": [
                   "editor",
                   "file-manager",
@@ -3875,7 +3973,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -3896,7 +3994,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -3917,7 +4015,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -3938,7 +4036,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -3959,7 +4057,7 @@
                 "id": 1072044407,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:44:47Z",
+                "last_commit": "2026-10-20T06:41:02Z",
                 "open_issues": 1,
                 "owner": "AminurAlam",
                 "repo": "yazi-plugins",
@@ -4054,7 +4152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T17:44:36.057Z",
+    "last_updated": "2026-10-20T15:49:00.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
@@ -4062,11 +4160,11 @@
       "id": 824262835,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-09T16:18:47Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-20T08:58:15Z",
+      "open_issues": 0,
       "owner": "AnirudhG07",
       "repo": "awesome-yazi",
-      "stars": 797,
+      "stars": 798,
       "topics": [
         "awesome",
         "awesome-list",
@@ -4075,7 +4173,7 @@
         "yazi-plugins"
       ]
     },
-    "original_repository_sha": "c018b6d9a312e8f9ecfd1dff0218b66e03d64662",
+    "original_repository_sha": "685c26c0a1a231694742174260ace683295be2f1",
     "enhanced_repository": "enhansome/enhansome-yazi",
     "enhanced_repository_description": null,
     "title": "Awesome Yazi with stars"

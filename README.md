@@ -44,7 +44,7 @@ Each plugin info contains the installation instruction preferably using `ya pkg`
 
 * [Website](https://yazi-rs.github.io)
 * [Documentation](https://yazi-rs.github.io/docs/installation)
-* [Repository](https://github.com/sxyazi/yazi) ⭐ 42,927 | 🐛 67 | 🌐 Rust | 📅 2026-10-18
+* [Repository](https://github.com/sxyazi/yazi) ⭐ 42,944 | 🐛 67 | 🌐 Rust | 📅 2026-10-20
 
 ## Plugins
 
@@ -139,6 +139,17 @@ ya pkg add ahkohd/eza-preview
 
 > Note:
 > The [original repo](https://github.com/sharklasers996/eza-preview.yazi) ⭐ 56 | 🐛 12 | 🌐 Lua | 📅 2024-06-27 is currently unmaintained and does not work for Yazi v>=0.3.3.
+
+</details>
+
+<details>
+<summary>
+<a href="https://github.com/DervexDev/f3d.yazi">f3d.yazi</a> - 3D model previewer with orbit, zoom and model stats, powered by <a href="https://f3d.app/">f3d</a>. Supports glTF, FBX, OBJ, STL, USD, STEP and more.
+</summary>
+
+```bash
+ya pkg add DervexDev/f3d
+```
 
 </details>
 
@@ -1607,6 +1618,17 @@ ya pkg add josephschmitt/auto-layout
 
 <details>
 <summary>
+<a href="https://github.com/Geronfir/Bifold.yazi">bifold.yazi</a> - Dual-pane view by splitting the screen between two tabs, with a runtime flip between side-by-side and stacked layouts, pane resizing, and cross-pane copy/move. Fork of split-tabs.yazi with bug fixes.
+</summary>
+
+```bash
+ya pkg add Geronfir/bifold
+```
+
+</details>
+
+<details>
+<summary>
 <a href="https://gitee.com/DreamMaoMao/current-size.yazi">current-size.yazi</a> - Get current path size in header bar for yazi plugin/
 </summary>
 
@@ -1702,7 +1724,7 @@ ya pkg add yazi-rs/plugins:mactag
 ya pkg add yazi-rs/plugins:no-status
 ```
 
-> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 42,927 | 🐛 67 | 🌐 Rust | 📅 2026-10-18 in this discussion.
+> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 42,944 | 🐛 67 | 🌐 Rust | 📅 2026-10-20 in this discussion.
 
 </details>
 
@@ -1792,6 +1814,17 @@ ya pkg add terrakok/split-tabs
 
 ```bash
 ya pkg add Rolv-Apneseth/starship
+```
+
+</details>
+
+<details>
+<summary>
+<a href="https://github.com/yohkuri/supaline.yazi">supaline.yazi</a> - Turn the linemode into as many columns as you like (size, timestamps, permissions, owner and more, or your own), each styled its own way, with gradients across the folder.
+</summary>
+
+```bash
+ya pkg add yohkuri/supaline
 ```
 
 </details>
@@ -1909,6 +1942,17 @@ ya pkg add ktunprasert/git-files
 
 ```bash
 ya pkg add Lil-Dank/lazygit
+```
+
+</details>
+
+<details>
+<summary>
+<a href="https://github.com/ThomasVanRiel/repo-status.yazi">repo-status.yazi</a> - Show the branch and Git status next to every repository directory in the file list.
+</summary>
+
+```bash
+ya pkg add ThomasVanRiel/repo-status
 ```
 
 </details>
@@ -2521,4 +2565,4 @@ Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-ya
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
