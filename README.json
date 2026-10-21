@@ -392,10 +392,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:23:43Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -723,10 +723,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:23:43Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -1127,8 +1127,8 @@
                 "id": 888139672,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-03-09T03:22:24Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-20T20:38:48Z",
+                "open_issues": 3,
                 "owner": "stelcodes",
                 "repo": "bunny.yazi",
                 "stars": 91,
@@ -1319,10 +1319,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:23:43Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -1430,7 +1430,7 @@
                 "open_issues": 0,
                 "owner": "iynaix",
                 "repo": "time-travel.yazi",
-                "stars": 30,
+                "stars": 32,
                 "topics": []
               },
               "title": "time-travel.yazi",
@@ -1664,10 +1664,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:23:43Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -1730,10 +1730,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:23:43Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -1823,7 +1823,7 @@
                 "open_issues": 0,
                 "owner": "BBOOXX",
                 "repo": "file-actions.yazi",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "title": "file-actions.yazi",
@@ -2006,7 +2006,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-09-15T12:42:38Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "lmnek",
                 "repo": "pandoc.yazi",
                 "stars": 10,
@@ -2321,7 +2321,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-02T21:34:18Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "pirafrank",
                 "repo": "what-size.yazi",
                 "stars": 66,
@@ -2422,10 +2422,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:23:43Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -2507,7 +2507,7 @@
                 "open_issues": 0,
                 "owner": "hankertrix",
                 "repo": "augment-command.yazi",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "lua",
                   "plugin",
@@ -2844,7 +2844,7 @@
                 "open_issues": 0,
                 "owner": "Geronfir",
                 "repo": "Bifold.yazi",
-                "stars": 1,
+                "stars": 2,
                 "topics": [
                   "dual-pane",
                   "lua",
@@ -2958,10 +2958,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:23:43Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -2982,10 +2982,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:23:43Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3006,10 +3006,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:23:43Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3172,7 +3172,7 @@
                 "open_issues": 5,
                 "owner": "terrakok",
                 "repo": "split-tabs.yazi",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "title": "split-tabs.yazi",
@@ -3212,11 +3212,11 @@
                 "id": 1348427048,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-20T12:37:46Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-21T13:16:35Z",
+                "open_issues": 0,
                 "owner": "yohkuri",
                 "repo": "supaline.yazi",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "lua",
                   "yazi",
@@ -3238,10 +3238,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:23:43Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3283,10 +3283,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-06T16:41:12Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "imsi32",
                 "repo": "yatline.yazi",
-                "stars": 151,
+                "stars": 153,
                 "topics": [
                   "customization",
                   "header-line",
@@ -3343,10 +3343,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:23:43Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3466,10 +3466,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:23:43Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3593,10 +3593,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:23:43Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3644,11 +3644,11 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-19T06:34:54Z",
+                "last_commit": "2026-10-21T12:55:31Z",
                 "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
-                "stars": 1889,
+                "stars": 1890,
                 "topics": [
                   "neovim",
                   "plugin",
@@ -3777,7 +3777,7 @@
                 "open_issues": 12,
                 "owner": "josephschmitt",
                 "repo": "zide",
-                "stars": 344,
+                "stars": 345,
                 "topics": []
               },
               "title": "zide",
@@ -4152,7 +4152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:49:00.419Z",
+    "last_updated": "2026-10-21T16:05:02.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
