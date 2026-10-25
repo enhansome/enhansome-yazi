@@ -654,7 +654,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-09-12T08:03:28Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ndtoan96",
                 "repo": "ouch.yazi",
                 "stars": 197,
@@ -1455,7 +1455,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-04-25T16:24:29Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "pakhromov",
                 "repo": "autosave.yazi",
                 "stars": 3,
@@ -1979,7 +1979,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-09-12T08:03:28Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ndtoan96",
                 "repo": "ouch.yazi",
                 "stars": 197,
@@ -2116,6 +2116,33 @@
               },
               "title": "reflink.yazi",
               "first_seen": "2026-10-03T05:14:23.410Z"
+            },
+            {
+              "children": [],
+              "description": "- Edit symlink targets inline, just like renaming files.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A Yazi plugin for interactively changing the target of a symlink.",
+                "homepage": null,
+                "id": 1432175522,
+                "language": "Lua",
+                "license": "MIT",
+                "last_commit": "2026-10-24T12:56:19Z",
+                "open_issues": 0,
+                "owner": "superb-striker",
+                "repo": "retarget-link.yazi",
+                "stars": 0,
+                "topics": [
+                  "lua",
+                  "symlink",
+                  "terminal-file-manager",
+                  "yazi",
+                  "yazi-plugin"
+                ]
+              },
+              "title": "retarget-link.yazi",
+              "first_seen": "2026-10-25T15:02:25.503Z"
             },
             {
               "children": [],
@@ -3216,7 +3243,7 @@
                 "open_issues": 0,
                 "owner": "yohkuri",
                 "repo": "supaline.yazi",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "lua",
                   "yazi",
@@ -3539,7 +3566,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2025-11-22T02:32:37Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Sonico98",
                 "repo": "allmytoes.yazi",
                 "stars": 14,
@@ -3644,7 +3671,7 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-24T06:37:12Z",
+                "last_commit": "2026-10-25T12:47:22Z",
                 "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
@@ -4152,7 +4179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:51:00.866Z",
+    "last_updated": "2026-10-25T15:02:25.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
@@ -4160,8 +4187,8 @@
       "id": 824262835,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-20T08:58:15Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-25T10:50:36Z",
+      "open_issues": 0,
       "owner": "AnirudhG07",
       "repo": "awesome-yazi",
       "stars": 800,
@@ -4173,7 +4200,7 @@
         "yazi-plugins"
       ]
     },
-    "original_repository_sha": "685c26c0a1a231694742174260ace683295be2f1",
+    "original_repository_sha": "20880e853c1b5030cdf04c532f1982b02f542ffb",
     "enhanced_repository": "enhansome/enhansome-yazi",
     "enhanced_repository_description": null,
     "title": "Awesome Yazi with stars"
