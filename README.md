@@ -44,7 +44,7 @@ Each plugin info contains the installation instruction preferably using `ya pkg`
 
 * [Website](https://yazi-rs.github.io)
 * [Documentation](https://yazi-rs.github.io/docs/installation)
-* [Repository](https://github.com/sxyazi/yazi) ⭐ 43,086 | 🐛 66 | 🌐 Rust | 📅 2026-10-28
+* [Repository](https://github.com/sxyazi/yazi) ⭐ 43,105 | 🐛 69 | 🌐 Rust | 📅 2026-10-28
 
 ## Plugins
 
@@ -138,7 +138,7 @@ ya pkg add ahkohd/eza-preview
 ```
 
 > Note:
-> The [original repo](https://github.com/sharklasers996/eza-preview.yazi) ⭐ 56 | 🐛 12 | 🌐 Lua | 📅 2024-06-27 is currently unmaintained and does not work for Yazi v>=0.3.3.
+> The [original repo](https://github.com/sharklasers996/eza-preview.yazi) ⭐ 57 | 🐛 12 | 🌐 Lua | 📅 2024-06-27 is currently unmaintained and does not work for Yazi v>=0.3.3.
 
 </details>
 
@@ -1736,7 +1736,7 @@ ya pkg add yazi-rs/plugins:mactag
 ya pkg add yazi-rs/plugins:no-status
 ```
 
-> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 43,086 | 🐛 66 | 🌐 Rust | 📅 2026-10-28 in this discussion.
+> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 43,105 | 🐛 69 | 🌐 Rust | 📅 2026-10-28 in this discussion.
 
 </details>
 
@@ -2577,4 +2577,4 @@ Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-ya
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

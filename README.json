@@ -395,7 +395,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -726,7 +726,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -1131,7 +1131,7 @@
                 "open_issues": 3,
                 "owner": "stelcodes",
                 "repo": "bunny.yazi",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "title": "bunny.yazi",
@@ -1322,7 +1322,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -1454,8 +1454,8 @@
                 "id": 1221007731,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-04-25T16:24:29Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-29T11:20:03Z",
+                "open_issues": 0,
                 "owner": "pakhromov",
                 "repo": "autosave.yazi",
                 "stars": 3,
@@ -1667,7 +1667,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -1733,7 +1733,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -2452,7 +2452,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -2708,8 +2708,8 @@
                 "id": 1221119105,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-04-25T19:26:06Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-29T14:09:04Z",
+                "open_issues": 0,
                 "owner": "pakhromov",
                 "repo": "smart-tab.yazi",
                 "stars": 0,
@@ -2988,7 +2988,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3012,7 +3012,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3036,7 +3036,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3268,7 +3268,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3373,7 +3373,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3496,7 +3496,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3623,7 +3623,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3671,11 +3671,11 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-28T13:47:12Z",
+                "last_commit": "2026-10-29T01:55:02Z",
                 "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
-                "stars": 1890,
+                "stars": 1889,
                 "topics": [
                   "neovim",
                   "plugin",
@@ -4179,7 +4179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T17:20:31.614Z",
+    "last_updated": "2026-10-29T17:31:10.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
