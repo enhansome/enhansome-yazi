@@ -44,7 +44,7 @@ Each plugin info contains the installation instruction preferably using `ya pkg`
 
 * [Website](https://yazi-rs.github.io)
 * [Documentation](https://yazi-rs.github.io/docs/installation)
-* [Repository](https://github.com/sxyazi/yazi) ⭐ 43,105 | 🐛 69 | 🌐 Rust | 📅 2026-10-28
+* [Repository](https://github.com/sxyazi/yazi) ⭐ 43,126 | 🐛 69 | 🌐 Rust | 📅 2026-10-28
 
 ## Plugins
 
@@ -1147,6 +1147,18 @@ ya pkg add PHONE1X/lsblk-mount.yazi
 </details>
 
 <details>
+
+<summary>
+<a href="https://github.com/goldfix/yazi-plugin-restic">Restic Plugin</a> - Yazi plugin to browse and restore Restic snapshots without FUSE. Snapshots appear as real folders and loaded lazily; files are fetched only on demand. Metadata preview, multi-select restore, SFTP / Cloud Storage / Rclone / etc. support.
+</summary>
+
+```bash
+ya pkg add goldfix/yazi-plugin-restic:restic
+```
+
+</details>
+
+<details>
 <summary>
 <a href="https://github.com/SL-RU/mount.yazi">SL-RU/mount.yazi</a> - User interface for convinient mounting volumes using udisks2.
 </summary>
@@ -1736,7 +1748,7 @@ ya pkg add yazi-rs/plugins:mactag
 ya pkg add yazi-rs/plugins:no-status
 ```
 
-> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 43,105 | 🐛 69 | 🌐 Rust | 📅 2026-10-28 in this discussion.
+> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 43,126 | 🐛 69 | 🌐 Rust | 📅 2026-10-28 in this discussion.
 
 </details>
 
@@ -2577,4 +2589,4 @@ Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-ya
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
