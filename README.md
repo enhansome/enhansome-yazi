@@ -44,7 +44,7 @@ Each plugin info contains the installation instruction preferably using `ya pkg`
 
 * [Website](https://yazi-rs.github.io)
 * [Documentation](https://yazi-rs.github.io/docs/installation)
-* [Repository](https://github.com/sxyazi/yazi) ⭐ 43,126 | 🐛 69 | 🌐 Rust | 📅 2026-10-28
+* [Repository](https://github.com/sxyazi/yazi) ⭐ 43,144 | 🐛 69 | 🌐 Rust | 📅 2026-10-28
 
 ## Plugins
 
@@ -1748,7 +1748,7 @@ ya pkg add yazi-rs/plugins:mactag
 ya pkg add yazi-rs/plugins:no-status
 ```
 
-> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 43,126 | 🐛 69 | 🌐 Rust | 📅 2026-10-28 in this discussion.
+> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 43,144 | 🐛 69 | 🌐 Rust | 📅 2026-10-28 in this discussion.
 
 </details>
 
@@ -2589,4 +2589,4 @@ Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-ya
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

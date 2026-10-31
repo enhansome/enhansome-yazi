@@ -395,7 +395,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -726,7 +726,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -750,7 +750,7 @@
                 "open_issues": 1,
                 "owner": "alberti42",
                 "repo": "faster-piper.yazi",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "title": "faster-piper.yazi",
@@ -1322,7 +1322,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -1667,7 +1667,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -1733,7 +1733,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -2452,7 +2452,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -2988,7 +2988,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3012,7 +3012,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3036,7 +3036,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3268,7 +3268,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3373,7 +3373,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3496,7 +3496,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3623,7 +3623,7 @@
                 "open_issues": 43,
                 "owner": "yazi-rs",
                 "repo": "plugins",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "yazi",
                   "yazi-plugin"
@@ -3675,7 +3675,7 @@
                 "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
-                "stars": 1889,
+                "stars": 1890,
                 "topics": [
                   "neovim",
                   "plugin",
@@ -4179,7 +4179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T17:08:57.923Z",
+    "last_updated": "2026-10-31T16:17:29.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
@@ -4191,7 +4191,7 @@
       "open_issues": 0,
       "owner": "AnirudhG07",
       "repo": "awesome-yazi",
-      "stars": 806,
+      "stars": 805,
       "topics": [
         "awesome",
         "awesome-list",
