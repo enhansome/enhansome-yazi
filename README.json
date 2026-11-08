@@ -1840,7 +1840,7 @@
                 "id": 873334263,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-08T12:35:32Z",
+                "last_commit": "2026-11-08T05:04:33Z",
                 "open_issues": 0,
                 "owner": "boydaihungst",
                 "repo": "fuse-archive.yazi",
@@ -3671,7 +3671,7 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-07T14:23:33Z",
+                "last_commit": "2026-11-08T06:10:48Z",
                 "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
@@ -3743,7 +3743,7 @@
                 "open_issues": 18,
                 "owner": "Yazelix",
                 "repo": "nova",
-                "stars": 1210,
+                "stars": 1211,
                 "topics": [
                   "editor",
                   "file-manager",
@@ -3860,7 +3860,7 @@
                 "open_issues": 0,
                 "owner": "AnirudhG07",
                 "repo": "custom-shell.yazi",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "title": "custom-shell.yazi",
@@ -4179,7 +4179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:58:47.715Z",
+    "last_updated": "2026-11-08T17:13:23.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
@@ -4191,7 +4191,7 @@
       "open_issues": 1,
       "owner": "AnirudhG07",
       "repo": "awesome-yazi",
-      "stars": 811,
+      "stars": 812,
       "topics": [
         "awesome",
         "awesome-list",
