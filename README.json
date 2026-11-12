@@ -215,7 +215,7 @@
                 "open_issues": 0,
                 "owner": "Ruudjhuu",
                 "repo": "f3d-preview.yazi",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "title": "f3d-preview.yazi",
@@ -2074,7 +2074,7 @@
                 "id": 1352821105,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-11T18:48:35Z",
+                "last_commit": "2026-11-11T20:21:39Z",
                 "open_issues": 0,
                 "owner": "volker-schukai",
                 "repo": "red-table",
@@ -2796,7 +2796,7 @@
                 "open_issues": 1,
                 "owner": "grappas",
                 "repo": "wl-clipboard.yazi",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "title": "wl-clipboard.yazi",
@@ -3671,11 +3671,11 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-11T03:02:08Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-11T20:26:24Z",
+                "open_issues": 6,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
-                "stars": 1893,
+                "stars": 1894,
                 "topics": [
                   "neovim",
                   "plugin",
@@ -4179,7 +4179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T18:51:10.406Z",
+    "last_updated": "2026-11-12T19:05:46.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
@@ -4191,7 +4191,7 @@
       "open_issues": 1,
       "owner": "AnirudhG07",
       "repo": "awesome-yazi",
-      "stars": 812,
+      "stars": 811,
       "topics": [
         "awesome",
         "awesome-list",
