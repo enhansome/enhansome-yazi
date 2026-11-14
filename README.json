@@ -1449,12 +1449,12 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "description": "Session restore plugin for yazi file manager.",
+                "description": "Session restore plugin for yazi file manager",
                 "homepage": null,
                 "id": 1221007731,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-29T11:20:03Z",
+                "last_commit": "2026-11-13T22:24:43Z",
                 "open_issues": 0,
                 "owner": "pakhromov",
                 "repo": "autosave.yazi",
@@ -2537,7 +2537,7 @@
                 "id": 821505989,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-06T02:38:09Z",
+                "last_commit": "2026-11-14T15:05:45Z",
                 "open_issues": 0,
                 "owner": "hankertrix",
                 "repo": "augment-command.yazi",
@@ -3678,7 +3678,7 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-13T16:10:12Z",
+                "last_commit": "2026-11-14T09:45:07Z",
                 "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
@@ -4186,7 +4186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T18:43:23.828Z",
+    "last_updated": "2026-11-14T17:16:50.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
