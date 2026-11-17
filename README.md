@@ -44,7 +44,7 @@ Each plugin info contains the installation instruction preferably using `ya pkg`
 
 * [Website](https://yazi-rs.github.io)
 * [Documentation](https://yazi-rs.github.io/docs/installation)
-* [Repository](https://github.com/sxyazi/yazi) ⭐ 43,444 | 🐛 73 | 🌐 Rust | 📅 2026-11-13
+* [Repository](https://github.com/sxyazi/yazi) ⭐ 43,460 | 🐛 74 | 🌐 Rust | 📅 2026-11-13
 
 ## Plugins
 
@@ -1419,6 +1419,18 @@ ya pkg add bmcszk/yazi-album-plugin
 
 </details>
 
+<details>
+<summary>
+<a href="https://github.com/hawkff/zippity">zippity.yazi</a> - Browse archives as folders through Yazi's virtual filesystem, preview and extract members, and create or edit ZIP, 7z, and RAR archives with 7-Zip. Linux and macOS.
+</summary>
+
+```bash
+ya pkg add hawkff/zippity:zippity
+# Requirements: the zippity helper from a release (see the README), 7-Zip as 7zz, yazi 26.9.1 or nightly
+```
+
+</details>
+
 ### Filter Enhancements
 
 <details>
@@ -1748,7 +1760,7 @@ ya pkg add yazi-rs/plugins:mactag
 ya pkg add yazi-rs/plugins:no-status
 ```
 
-> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 43,444 | 🐛 73 | 🌐 Rust | 📅 2026-11-13 in this discussion.
+> Check out [no-header.yazi](https://github.com/sxyazi/yazi/discussions/1996) ⭐ 43,460 | 🐛 74 | 🌐 Rust | 📅 2026-11-13 in this discussion.
 
 </details>
 
@@ -2589,4 +2601,4 @@ Check out the [`checkout_more` section](https://github.com/AnirudhG07/awesome-ya
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
