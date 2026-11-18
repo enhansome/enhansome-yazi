@@ -465,7 +465,7 @@
                 "open_issues": 0,
                 "owner": "boydaihungst",
                 "repo": "mediainfo.yazi",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "title": "mediainfo.yazi",
@@ -2817,8 +2817,8 @@
                 "id": 1071942390,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-17T01:15:33Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-18T04:12:46Z",
+                "open_issues": 2,
                 "owner": "simla33",
                 "repo": "ucp.yazi",
                 "stars": 33,
@@ -3717,7 +3717,7 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-17T04:36:43Z",
+                "last_commit": "2026-11-18T17:58:15Z",
                 "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
@@ -4225,7 +4225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:59:32.456Z",
+    "last_updated": "2026-11-18T19:33:12.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
@@ -4237,7 +4237,7 @@
       "open_issues": 1,
       "owner": "AnirudhG07",
       "repo": "awesome-yazi",
-      "stars": 815,
+      "stars": 816,
       "topics": [
         "awesome",
         "awesome-list",
