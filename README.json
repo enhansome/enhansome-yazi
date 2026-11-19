@@ -1869,7 +1869,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-05-12T04:58:44Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Deepak22903",
                 "repo": "kdeconnect-send.yazi",
                 "stars": 18,
@@ -2818,7 +2818,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-18T04:12:46Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "simla33",
                 "repo": "ucp.yazi",
                 "stars": 33,
@@ -3359,7 +3359,7 @@
                 "open_issues": 3,
                 "owner": "imsi32",
                 "repo": "yatline.yazi",
-                "stars": 157,
+                "stars": 156,
                 "topics": [
                   "customization",
                   "header-line",
@@ -3717,11 +3717,11 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-18T17:58:15Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-19T13:16:16Z",
+                "open_issues": 6,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
-                "stars": 1895,
+                "stars": 1897,
                 "topics": [
                   "neovim",
                   "plugin",
@@ -3789,7 +3789,7 @@
                 "open_issues": 18,
                 "owner": "Yazelix",
                 "repo": "nova",
-                "stars": 1213,
+                "stars": 1215,
                 "topics": [
                   "editor",
                   "file-manager",
@@ -4225,7 +4225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T19:33:12.536Z",
+    "last_updated": "2026-11-19T19:36:39.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
@@ -4237,7 +4237,7 @@
       "open_issues": 1,
       "owner": "AnirudhG07",
       "repo": "awesome-yazi",
-      "stars": 816,
+      "stars": 815,
       "topics": [
         "awesome",
         "awesome-list",
