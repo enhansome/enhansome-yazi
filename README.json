@@ -750,7 +750,7 @@
                 "open_issues": 1,
                 "owner": "alberti42",
                 "repo": "faster-piper.yazi",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "title": "faster-piper.yazi",
@@ -2358,7 +2358,7 @@
                 "open_issues": 2,
                 "owner": "pirafrank",
                 "repo": "what-size.yazi",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "cli",
                   "lua",
@@ -3717,11 +3717,11 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-21T13:41:15Z",
+                "last_commit": "2026-11-22T10:36:25Z",
                 "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
-                "stars": 1898,
+                "stars": 1901,
                 "topics": [
                   "neovim",
                   "plugin",
@@ -3789,7 +3789,7 @@
                 "open_issues": 18,
                 "owner": "Yazelix",
                 "repo": "nova",
-                "stars": 1216,
+                "stars": 1217,
                 "topics": [
                   "editor",
                   "file-manager",
@@ -4225,7 +4225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T18:11:16.747Z",
+    "last_updated": "2026-11-22T18:38:10.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
@@ -4237,7 +4237,7 @@
       "open_issues": 1,
       "owner": "AnirudhG07",
       "repo": "awesome-yazi",
-      "stars": 818,
+      "stars": 819,
       "topics": [
         "awesome",
         "awesome-list",
