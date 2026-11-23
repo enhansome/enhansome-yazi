@@ -83,7 +83,7 @@
                 "open_issues": 16,
                 "owner": "wylie102",
                 "repo": "duckdb.yazi",
-                "stars": 194,
+                "stars": 193,
                 "topics": [
                   "csv",
                   "csv-viewer",
@@ -606,7 +606,7 @@
                 "open_issues": 10,
                 "owner": "macydnah",
                 "repo": "office.yazi",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "office-preload",
                   "office-preview",
@@ -1640,7 +1640,7 @@
                 "open_issues": 7,
                 "owner": "KKV9",
                 "repo": "compress.yazi",
-                "stars": 145,
+                "stars": 146,
                 "topics": [
                   "archive",
                   "compression",
@@ -3359,7 +3359,7 @@
                 "open_issues": 3,
                 "owner": "imsi32",
                 "repo": "yatline.yazi",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "customization",
                   "header-line",
@@ -3717,11 +3717,11 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-22T10:36:25Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-23T19:25:23Z",
+                "open_issues": 6,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
-                "stars": 1901,
+                "stars": 1902,
                 "topics": [
                   "neovim",
                   "plugin",
@@ -3789,7 +3789,7 @@
                 "open_issues": 18,
                 "owner": "Yazelix",
                 "repo": "nova",
-                "stars": 1217,
+                "stars": 1218,
                 "topics": [
                   "editor",
                   "file-manager",
@@ -4225,7 +4225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T18:38:10.052Z",
+    "last_updated": "2026-11-23T22:54:12.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
@@ -4237,7 +4237,7 @@
       "open_issues": 1,
       "owner": "AnirudhG07",
       "repo": "awesome-yazi",
-      "stars": 819,
+      "stars": 820,
       "topics": [
         "awesome",
         "awesome-list",
