@@ -606,7 +606,7 @@
                 "open_issues": 10,
                 "owner": "macydnah",
                 "repo": "office.yazi",
-                "stars": 77,
+                "stars": 76,
                 "topics": [
                   "office-preload",
                   "office-preview",
@@ -1131,7 +1131,7 @@
                 "open_issues": 3,
                 "owner": "stelcodes",
                 "repo": "bunny.yazi",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "title": "bunny.yazi",
@@ -1761,7 +1761,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-08T03:23:46Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "glassjaw",
                 "repo": "difftool.yazi",
                 "stars": 2,
@@ -1956,7 +1956,7 @@
                 "open_issues": 0,
                 "owner": "skylightlim",
                 "repo": "omniconvert.yazi",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "bash",
                   "ffmpeg",
@@ -2358,7 +2358,7 @@
                 "open_issues": 2,
                 "owner": "pirafrank",
                 "repo": "what-size.yazi",
-                "stars": 67,
+                "stars": 66,
                 "topics": [
                   "cli",
                   "lua",
@@ -2580,7 +2580,7 @@
                 "open_issues": 0,
                 "owner": "hankertrix",
                 "repo": "augment-command.yazi",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "lua",
                   "plugin",
@@ -2917,7 +2917,7 @@
                 "open_issues": 0,
                 "owner": "Geronfir",
                 "repo": "Bifold.yazi",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "dual-pane",
                   "lua",
@@ -3245,7 +3245,7 @@
                 "open_issues": 6,
                 "owner": "terrakok",
                 "repo": "split-tabs.yazi",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "title": "split-tabs.yazi",
@@ -3359,7 +3359,7 @@
                 "open_issues": 3,
                 "owner": "imsi32",
                 "repo": "yatline.yazi",
-                "stars": 157,
+                "stars": 159,
                 "topics": [
                   "customization",
                   "header-line",
@@ -3717,8 +3717,8 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-24T20:02:17Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-25T14:14:19Z",
+                "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
                 "stars": 1903,
@@ -3785,11 +3785,11 @@
                 "id": 746026727,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T20:42:23Z",
+                "last_commit": "2026-11-25T20:22:09Z",
                 "open_issues": 18,
                 "owner": "Yazelix",
                 "repo": "nova",
-                "stars": 1217,
+                "stars": 1218,
                 "topics": [
                   "editor",
                   "file-manager",
@@ -3850,7 +3850,7 @@
                 "open_issues": 12,
                 "owner": "josephschmitt",
                 "repo": "zide",
-                "stars": 345,
+                "stars": 346,
                 "topics": []
               },
               "title": "zide",
@@ -3906,7 +3906,7 @@
                 "open_issues": 0,
                 "owner": "AnirudhG07",
                 "repo": "custom-shell.yazi",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "title": "custom-shell.yazi",
@@ -4225,7 +4225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T21:29:17.564Z",
+    "last_updated": "2026-11-25T20:37:35.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
