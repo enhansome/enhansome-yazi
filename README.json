@@ -465,7 +465,7 @@
                 "open_issues": 0,
                 "owner": "boydaihungst",
                 "repo": "mediainfo.yazi",
-                "stars": 119,
+                "stars": 118,
                 "topics": []
               },
               "title": "mediainfo.yazi",
@@ -1640,7 +1640,7 @@
                 "open_issues": 7,
                 "owner": "KKV9",
                 "repo": "compress.yazi",
-                "stars": 146,
+                "stars": 147,
                 "topics": [
                   "archive",
                   "compression",
@@ -2737,7 +2737,7 @@
                 "open_issues": 0,
                 "owner": "boydaihungst",
                 "repo": "save-clipboard-to-file.yazi",
-                "stars": 19,
+                "stars": 18,
                 "topics": []
               },
               "title": "save-clipboard-to-file.yazi",
@@ -3359,7 +3359,7 @@
                 "open_issues": 3,
                 "owner": "imsi32",
                 "repo": "yatline.yazi",
-                "stars": 159,
+                "stars": 158,
                 "topics": [
                   "customization",
                   "header-line",
@@ -3496,7 +3496,7 @@
                 "open_issues": 0,
                 "owner": "Lil-Dank",
                 "repo": "lazygit.yazi",
-                "stars": 80,
+                "stars": 81,
                 "topics": []
               },
               "title": "lazygit.yazi",
@@ -3717,7 +3717,7 @@
                 "id": 763068884,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-11-25T14:14:19Z",
+                "last_commit": "2026-11-26T18:12:09Z",
                 "open_issues": 5,
                 "owner": "mikavilpas",
                 "repo": "yazi.nvim",
@@ -3785,11 +3785,11 @@
                 "id": 746026727,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T20:22:09Z",
+                "last_commit": "2026-11-26T01:20:00Z",
                 "open_issues": 18,
                 "owner": "Yazelix",
                 "repo": "nova",
-                "stars": 1218,
+                "stars": 1219,
                 "topics": [
                   "editor",
                   "file-manager",
@@ -4225,7 +4225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T20:37:35.807Z",
+    "last_updated": "2026-11-26T20:30:26.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Yazi's Plugins, flavours and more resources.",
